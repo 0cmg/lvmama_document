@@ -1,0 +1,42 @@
+                    
+    
+                    
+    
+                    
+    
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>查看源</title>
+        <link rel="canonical" href="/confluence/pages/viewpage.action?pageId=3473523" />
+        <link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?media=print" media="print">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+8" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/540325f998b5a41b60b4c19911f6a7d9/_/download/contextbatch/css/plugin.viewsource/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/79c738f4bfcbaa104651b3a3b7065227/_/download/contextbatch/css/editor-content/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1/_/styles/colors.css?spaceKey=Lvmama" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/resources/com.atlassian.confluence.themes.default:styles/default-theme.css" media="all">
+
+    </head>
+
+    <body class="mceContentBody aui-theme-default wiki-content fullsize">
+        <p>&nbsp;</p>         <p><strong>作者</strong>：田志  <strong>发布时间</strong>：2014/1/23 (周四) 19:16</p><p>Dear 各位，</p><p> </p><p>请看附件最新的统计1月份技术中心反馈问题截止今日（20140123）汇总，问题总数是66个，其中重复的问题14个。具体可看附件的汇总表。后续此统计问题将于每月中旬汇总以及每月月底各汇总一次发给大家。</p><p> </p><p>l   <strong>问题汇总</strong></p><p>按问题类型反馈到issue群中的1月份截止今日主要的<strong>高等级问题</strong>集中在pet-public线上服务宕机引起的系列问题（11个）和第三方短信供应商问题（9个）。</p><p>同时处理业务方操作的不熟练问题（10个）与系统BUG（9个）。 按项目汇总可发现项目问题主要出现在订单，传真，短信和支付项目中，其中一共4个问题开发团队在解决中。</p><p> <img class="confluence-embedded-image" src="/confluence/download/attachments/3473523/image2014-2-10%2012%3A58%3A2.png?version=1&amp;modificationDate=1392008441000&amp;api=v2" data-image-src="/confluence/download/attachments/3473523/image2014-2-10%2012%3A58%3A2.png?version=1&amp;modificationDate=1392008441000&amp;api=v2" data-linked-resource-id="3702914" data-linked-resource-type="attachment" data-linked-resource-default-alias="image2014-2-10 12:58:2.png" data-base-url="http://10.2.1.106:8080/confluence" data-linked-resource-container-id="3473523" title="驴妈妈技术平台知识库 > 1月份技术中心缺陷汇总表更新（截止今日） > image2014-2-10 12:58:2.png" data-location="驴妈妈技术平台知识库 > 1月份技术中心缺陷汇总表更新（截止今日） > image2014-2-10 12:58:2.png"><img class="confluence-embedded-image" src="/confluence/download/attachments/3473523/image2014-2-10%2012%3A58%3A40.png?version=1&amp;modificationDate=1392008441000&amp;api=v2" data-image-src="/confluence/download/attachments/3473523/image2014-2-10%2012%3A58%3A40.png?version=1&amp;modificationDate=1392008441000&amp;api=v2" data-linked-resource-id="3702915" data-linked-resource-type="attachment" data-linked-resource-default-alias="image2014-2-10 12:58:40.png" data-base-url="http://10.2.1.106:8080/confluence" data-linked-resource-container-id="3473523" title="驴妈妈技术平台知识库 > 1月份技术中心缺陷汇总表更新（截止今日） > image2014-2-10 12:58:40.png" data-location="驴妈妈技术平台知识库 > 1月份技术中心缺陷汇总表更新（截止今日） > image2014-2-10 12:58:40.png"></p><p><img class="confluence-embedded-image" src="/confluence/download/attachments/3473523/image2014-2-10%2012%3A59%3A6.png?version=1&amp;modificationDate=1392008441000&amp;api=v2" data-image-src="/confluence/download/attachments/3473523/image2014-2-10%2012%3A59%3A6.png?version=1&amp;modificationDate=1392008441000&amp;api=v2" data-linked-resource-id="3702916" data-linked-resource-type="attachment" data-linked-resource-default-alias="image2014-2-10 12:59:6.png" data-base-url="http://10.2.1.106:8080/confluence" data-linked-resource-container-id="3473523" title="驴妈妈技术平台知识库 > 1月份技术中心缺陷汇总表更新（截止今日） > image2014-2-10 12:59:6.png" data-location="驴妈妈技术平台知识库 > 1月份技术中心缺陷汇总表更新（截止今日） > image2014-2-10 12:59:6.png"></p><p>l   <strong>系统BUG分析</strong></p><p>传真的主要BUG是传真发送log过多,对传真的实际接收和发送无影响。</p><p>搜索故障主要是EBK系统导入的重复数据引起索引创建失败， 后果是当天的搜索产品状态在线上不更新（生产线上是头一天的数据状态）。</p><p>报表BUG属于历史的遗留问题。</p><p>支付问题主要是退款消息并发问题，已经在解决中，预计明天上线。</p><p><img class="confluence-embedded-image" src="/confluence/download/attachments/3473523/image2014-2-10%2012%3A59%3A27.png?version=1&amp;modificationDate=1392008441000&amp;api=v2" data-image-src="/confluence/download/attachments/3473523/image2014-2-10%2012%3A59%3A27.png?version=1&amp;modificationDate=1392008441000&amp;api=v2" data-linked-resource-id="3702917" data-linked-resource-type="attachment" data-linked-resource-default-alias="image2014-2-10 12:59:27.png" data-base-url="http://10.2.1.106:8080/confluence" data-linked-resource-container-id="3473523" title="驴妈妈技术平台知识库 > 1月份技术中心缺陷汇总表更新（截止今日） > image2014-2-10 12:59:27.png" data-location="驴妈妈技术平台知识库 > 1月份技术中心缺陷汇总表更新（截止今日） > image2014-2-10 12:59:27.png"></p><p>各位后续有任何问题，请保持高效沟通，积极预防和高效解决问题。</p><p> </p><p>详细报告附件：<a class="confluence-link" href="/confluence/download/attachments/3473523/%E6%8A%80%E6%9C%AF%E4%B8%AD%E5%BF%83%E6%95%85%E9%9A%9C%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB20140123.xls?version=1&amp;modificationDate=1392008441000&amp;api=v2" data-linked-resource-container-id="3473523" data-linked-resource-id="3702918" data-linked-resource-type="attachment" data-linked-resource-default-alias="&amp;#25216;&amp;#26415;&amp;#20013;&amp;#24515;&amp;#25925;&amp;#38556;&amp;#38382;&amp;#39064;&amp;#27719;&amp;#24635;20140123.xls" data-base-url="http://10.2.1.106:8080/confluence">&#25216;&#26415;&#20013;&#24515;&#25925;&#38556;&#38382;&#39064;&#27719;&#24635;20140123.xls</a></p><p> </p><p />
+        <p>&nbsp;</p>
+    </body>
+</html>

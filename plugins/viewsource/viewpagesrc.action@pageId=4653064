@@ -1,0 +1,42 @@
+                    
+    
+                    
+    
+                    
+    
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>查看源</title>
+        <link rel="canonical" href="/confluence/pages/viewpage.action?pageId=4653064" />
+        <link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?media=print" media="print">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+8" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/540325f998b5a41b60b4c19911f6a7d9/_/download/contextbatch/css/plugin.viewsource/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/79c738f4bfcbaa104651b3a3b7065227/_/download/contextbatch/css/editor-content/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1/_/styles/colors.css?spaceKey=PDU" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/resources/com.atlassian.confluence.themes.default:styles/default-theme.css" media="all">
+
+    </head>
+
+    <body class="mceContentBody aui-theme-default wiki-content fullsize">
+        <p>&nbsp;</p>         <h1>权限申请流程</h1><p>super系统的生产环境权限必须提交管理中心-秦浩玮申请才允许开通。</p><ol><li>填写《驴妈妈业务系统账号权限申请表》</li><li>邮件发送秦浩玮<a href="mailto:qinhaowei@lvmama.com">qinhaowei@lvmama.com</a>，抄送董跃（CTO）<a href="mailto:dongyue@lvmama.com">dongyue@lvmama.com</a>、王丁<a href="mailto:wangding@lvmama.com">wangding@lvmama.com</a></li><li>等待开通权限</li></ol><p><span style="color: rgb(255,0,0);">特别说明</span>：涉及财务管理菜单下权限，需经集团财务部张烨（CFO）或王慧（财务总监）审批.</p><h1>super后台权限清单</h1><ul><li>产品管理<ul><li>产品限购设置</li><li>其它产品管理</li><li>产品属性管理</li><li>门票产品管理<ul><li>新增采购产品</li><li>采购产品列表</li><li>新增销售产品</li><li>销售产品列表</li></ul></li><li>线路产品管理</li><li>酒店产品管理</li><li>产品返现设置</li><li>供应商管理</li><li>合同管理</li><li>大交通产品管理</li><li>产品预控列表</li><li>审核功能</li><li>产品预控</li><li>标签管理</li><li>团梦想</li><li>渠道管理</li><li>频道管理</li><li>旅游须知管理</li><li>二维码管理</li></ul></li><li>签证管理<ul><li>签证材料管理</li><li>签证材料审核</li><li>新增签证</li><li>签证产品列表</li></ul></li><li>订单管理<ul><li>新后台下单</li><li>渠道下单</li><li>新投诉</li><li>退款申请</li><li>新订单审核</li><li>退款单</li><li>新资源审核</li><li>计调</li><li>传真管理</li><li>度假线路审核</li><li>淘宝搬单</li><li>新订单监控</li><li>单笔订单查询</li><li>我的订单</li><li>线路合同管理</li><li>短信管理</li><li>售后服务管理</li><li>库存发班统计</li><li>报表</li><li>电子凭证监控</li><li>投保管理</li><li>EBK订单监控</li><li>修改结算价</li></ul></li><li>财务管理<ul><li>发票红冲管理</li><li>财务勾兑</li><li>线下支付管理</li><li>现金账户</li><li>团财务</li><li>发票管理</li><li>线下收款监控</li><li>订单调价管理</li><li>新结算</li><li>系统做账</li><li>POS机管理</li><li>驴游天下卡管理<ul><li>入库管理</li><li>出库管理</li><li>卡管理</li><li>操作日志</li></ul></li><li>储值卡管理</li><li>B2B分销<ul><li>B2B分销商预存款账户管理</li><li>B2B财务确认预存款充值</li><li>B2B财务确认预存款冻结</li><li>B2B分销商保证金账户管理</li><li>B2B分销商保证金充值</li><li>B2B分销商保证金扣款</li></ul></li></ul></li><li>客户关系<ul><li>用户管理</li><li>用户批量导入</li><li>意见反馈</li></ul></li><li>运营管理</li><li>营销管理</li><li>系统管理<ul><li>任务管理</li><li>权限监控</li><li>日志管理</li><li>权限设置</li><li>角色设置</li><li>组织管理</li><li>批量修改采购产品经理</li><li>批量修改销售产品经理</li><li>用户管理</li><li>提醒通知</li><li>EBK公告</li><li>EBOOKING管理员账号管理</li></ul></li><li>分销管理<ul><li>平台分销产品管理</li><li>平台分销订单管理</li><li>B2B分销<ul><li>B2B分销商管理</li><li>B2B分销商预存款账户管理</li><li>B2B分销商保证金账户管理</li><li>B2B分销商返佣规则管理</li><li>B2B分销商类型管理</li><li>B2B分销规则设置</li></ul></li></ul></li><li>内容管理<ul><li>Memcached缓存管理</li><li>客户端推送</li><li>客户端配置管理</li><li>客户端版本管理</li><li>广告敏感词</li><li>推送管理</li><li>DEST管理</li><li>SEO管理</li><li>地图管理</li><li>推荐管理</li><li>科捷系统文字管理</li><li>产品排序管理</li><li>容器管理</li><li>机票信息管理</li><li>用户标签</li><li>内容审查管理</li></ul></li><li>工单管理<ul><li>我的工单</li><li>新增工单</li><li>工单类型管理</li><li>组织管理</li><li>任务监控</li><li>工单监控</li></ul></li><li>VST<ul><li>基础设置</li><li>产品管理</li><li>分销商管理</li><li>订单管理</li><li>短信管理</li><li>EBOOKING</li><li>促销管理</li><li>供应商管理</li></ul></li></ul><p> </p>
+        <p>&nbsp;</p>
+    </body>
+</html>

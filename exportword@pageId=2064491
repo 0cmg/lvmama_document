@@ -1,0 +1,242 @@
+Message-ID: <929674502.567.1402560682282.JavaMail.Administrator@IT01010030015>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_566_387208016.1402560682282"
+
+------=_Part_566_387208016.1402560682282
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E7=AC=AC=E4=B8=89=E6=96=B9=E9=80=9A=E8=AE=AF=E8=A7=84=E5=88=99<=
+/title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E7=AC=AC=E4=B8=89=E6=96=B9=E9=80=9A=E8=AE=AF=E8=A7=84=E5=88=99</h1=
+>
+    <div class=3D"Section1">
+        <p>=E8=A6=81=E8=A7=A3=E5=86=B3=E7=9A=84=E9=97=AE=E9=A2=98=EF=BC=9A<=
+br />1=E3=80=81=E8=BF=9B=E8=A1=8C=E7=AC=AC=E4=B8=89=E6=96=B9=E9=80=9A=E8=AE=
+=AF=E7=9A=84=E6=97=B6=E5=80=99=E4=B8=8D=E5=BE=97=E5=8F=91=E7=94=9F=E5=A0=B5=
+=E5=A1=9E<br />2=E3=80=81=E4=B8=87=E4=B8=80=E5=8F=91=E7=94=9F=E5=A0=B5=E5=
+=A1=9E=EF=BC=8C=E4=B8=8D=E5=BD=B1=E5=93=8D=E5=88=AB=E7=9A=84=E4=BB=BB=E5=8A=
+=A1=E3=80=81=E7=A8=8B=E5=BA=8F</p>
+<p>=E5=AE=9E=E7=8E=B0=E6=96=B9=E6=B3=95=E7=9A=84=E8=A7=84=E5=88=99=EF=BC=9A=
+<br />1=E3=80=81=E6=8A=8A=E6=89=80=E6=9C=89=E9=9C=80=E8=A6=81=E5=92=8C=E7=
+=AC=AC=E4=B8=89=E6=96=B9=E9=80=9A=E8=AE=AF=E7=9A=84=E5=86=85=E5=AE=B9=E6=8A=
+=BD=E8=B1=A1=E6=88=90TASK<br />2=E3=80=81TASK=E5=AD=98=E6=94=BE=E5=9C=A8=E6=
+=95=B0=E6=8D=AE=E5=BA=93=E8=A1=A8=E4=B8=AD=EF=BC=8C=E6=AF=8F=E4=B8=80=E7=A7=
+=8D=E7=B1=BB=E5=9E=8B=E7=9A=84TASK=E4=B8=80=E5=A5=97=E8=A1=A8<br />3=E3=80=
+=81TASK=E6=9C=89=E4=B8=A4=E7=A7=8D=E8=A7=A6=E5=8F=91=E6=96=B9=E5=BC=8F</p>
+<pre>=E5=AE=9A=E6=97=B6=E8=B0=83=E5=BA=A6=EF=BC=88JOB=E4=BD=BF=E7=94=A8quar=
+tz=E6=9D=A5=E5=AE=9E=E7=8E=B0=EF=BC=89
+=E5=AE=9E=E6=97=B6=E7=94=B3=E8=AF=B7=EF=BC=88=E4=BD=BF=E7=94=A8JMS=E6=9D=A5=
+=E5=AE=9E=E7=8E=B0=EF=BC=89
+</pre>
+<p>4=E3=80=81=E5=AE=9A=E6=97=B6=E8=B0=83=E5=BA=A6=E4=B8=8D=E5=BE=97=E7=9B=
+=B4=E6=8E=A5=E8=BF=9B=E8=A1=8C=E7=AC=AC=E4=B8=89=E6=96=B9=E9=80=9A=E8=AE=AF=
+=EF=BC=8C=E8=80=8C=E8=A6=81=E9=80=9A=E8=BF=87=E7=BA=BF=E7=A8=8B=E6=B1=A0=E6=
+=9D=A5=E5=81=9A<br />5=E3=80=81=E5=AE=9E=E6=97=B6=E7=94=B3=E8=AF=B7=E7=9A=
+=84TASK=E9=9C=80=E4=BD=BF=E7=94=A8=E7=BA=BF=E7=A8=8B=E6=B1=A0=E6=9D=A5=E8=
+=BF=9B=E8=A1=8C=E4=B8=89=E6=96=B9=E9=80=9A=E8=AE=AF=EF=BC=8C=E6=88=96=E8=80=
+=85=EF=BC=8C=E4=BD=BF=E7=94=A8=E5=A4=9A=E7=BA=BF=E7=A8=8B=E6=A8=A1=E5=BC=8F=
+=E7=9A=84JMS=E7=9A=84Consumer=E6=9D=A5=E5=AE=9E=E7=8E=B0=E3=80=82</p>
+    </div>
+</body>
+</html>
+------=_Part_566_387208016.1402560682282--

@@ -1,0 +1,42 @@
+                    
+    
+                    
+    
+                    
+    
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>查看源</title>
+        <link rel="canonical" href="/confluence/pages/viewpage.action?pageId=4948005" />
+        <link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?media=print" media="print">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+8" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/540325f998b5a41b60b4c19911f6a7d9/_/download/contextbatch/css/plugin.viewsource/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/79c738f4bfcbaa104651b3a3b7065227/_/download/contextbatch/css/editor-content/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1/_/styles/colors.css?spaceKey=PDU" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/resources/com.atlassian.confluence.themes.default:styles/default-theme.css" media="all">
+
+    </head>
+
+    <body class="mceContentBody aui-theme-default wiki-content fullsize">
+        <p>&nbsp;</p>         <p>各产品系统在出现「故障」时，无论接收到故障的人员是产品经理还是UED人员，必须将问题发送至指定邮箱以提供QA人员跟踪处理。</p><h1>故障定义</h1><ul><li>访问异常，出现404，503或持续加载等各类访问问题</li><li>无法使用，比如“点击Button无响应”或“Button无法点击”</li><li>错误，比如正常操作应该呈现的结果，出现了未知的非相关的内容等</li></ul><h1>收到故障后处置流程</h1><ul><li>发送邮件至<a href="mailto:issue@lvmama.com">issue@lvmama.com</a>（描述清楚问题的背景及发现问题的人员）</li><li>产品经理应继续找到相应QA和技术人员，跟进解决问题</li></ul><p> </p>
+        <p>&nbsp;</p>
+    </body>
+</html>

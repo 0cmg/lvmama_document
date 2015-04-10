@@ -1,0 +1,245 @@
+Message-ID: <343062466.569.1402560687165.JavaMail.Administrator@IT01010030015>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_568_428699393.1402560687165"
+
+------=_Part_568_428699393.1402560687165
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E9=A9=B4=E5=A6=88=E5=A6=88=E5=B9=B3=E5=8F=B0=E6=9E=B6=E6=9E=84<=
+/title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E9=A9=B4=E5=A6=88=E5=A6=88=E5=B9=B3=E5=8F=B0=E6=9E=B6=E6=9E=84</h1=
+>
+    <div class=3D"Section1">
+        <p></p>
+<div class=3D"vf-slide-viewer-macro" data-width=3D"632px" data-height=3D"50=
+7px" data-attachment=3D"%E9%A9%B4%E5%A6%88%E5%A6%88%E5%B9%B3%E5%8F%B0%E6%9E=
+%B6%E6%9E%84.pdf" data-attachment-id=3D"4718594" data-attachment-ver=3D"1" =
+data-page-id=3D"4653066" data-download-path=3D"/download/attachments/465306=
+6/%E9%A9%B4%E5%A6%88%E5%A6%88%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84.pdf?api=
+=3Dv2" data-use-path-auth=3D"false" data-edit-url=3D"%2Fplugins%2Fservlet%2=
+Fconfluence%2Feditinword%2F4653066%2Fattachments%2F%E9%A9%B4%E5%A6%88%E5%A6=
+%88%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84.pdf" data-allow-edit=3D"false">=20
+<div class=3D"vf-slide-viewer">=20
+<div class=3D"vf-slide-wrapper">=20
+<div class=3D"vf-error"></div>=20
+<div class=3D"vf-slide-loading"></div>=20
+<div class=3D"vf-slide-outer" style=3D"width: 632px; height: 507px;"></div>=
+=20
+<div class=3D"vf-preview-placeholder"></div>=20
+<div class=3D"vf-progress-placeholder"></div>=20
+</div>=20
+<div class=3D"vf-toolbar">=20
+<div class=3D"vf-controls-placeholder"></div>=20
+</div>=20
+</div>=20
+</div>=20
+<p></p>
+<p>&nbsp;</p>
+<p>=E5=8E=9F=E4=BB=B6=EF=BC=9A<a href=3D"/confluence/download/attachments/4=
+653066/%E9%A9%B4%E5%A6%88%E5%A6%88%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84.pptx=
+?version=3D1&amp;modificationDate=3D1395056402000&amp;api=3Dv2">=E9=A9=B4=
+=E5=A6=88=E5=A6=88=E5=B9=B3=E5=8F=B0=E6=9E=B6=E6=9E=84.pptx</a></p>
+    </div>
+</body>
+</html>
+------=_Part_568_428699393.1402560687165--

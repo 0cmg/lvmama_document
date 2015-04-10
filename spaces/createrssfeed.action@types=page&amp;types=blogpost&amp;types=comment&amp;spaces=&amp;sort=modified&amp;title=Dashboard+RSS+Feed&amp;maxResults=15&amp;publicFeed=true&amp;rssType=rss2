@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Confluence RSS Feed</title>
+  <link rel="alternate" href="http://10.2.1.106:8080/confluence" />
+  <subtitle>Confluence Syndication Feed</subtitle>
+  <id>http://10.2.1.106:8080/confluence</id>
+</feed>
+

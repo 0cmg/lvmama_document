@@ -1,0 +1,42 @@
+                    
+    
+                    
+    
+                    
+    
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>查看源</title>
+        <link rel="canonical" href="/confluence/pages/viewpage.action?pageId=1769498" />
+        <link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?media=print" media="print">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+8" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/540325f998b5a41b60b4c19911f6a7d9/_/download/contextbatch/css/plugin.viewsource/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/79c738f4bfcbaa104651b3a3b7065227/_/download/contextbatch/css/editor-content/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1/_/styles/colors.css?spaceKey=rcsy" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/resources/com.atlassian.confluence.themes.default:styles/default-theme.css" media="all">
+
+    </head>
+
+    <body class="mceContentBody aui-theme-default wiki-content fullsize">
+        <p>&nbsp;</p>         <p>关于技术平台中心考勤的事宜，想必大家在入职的时候，人事已经说明过了吧~</p><p>在此，再做一个简单说明，让大家有一个更清晰的了解。</p><p>考勤周期：26号至次月的25号为一个周期。</p><p>正常的工作时间是：9：00~18：00（中间有1H吃饭时间）</p><p>我部门实行：弹性工作制。</p><p>举例：一个月有160个小时（已除去吃饭时间），考勤周期内的工时必须满160H（请去除你平时的吃饭时间），否则少的时间请至OA进行请假申请。</p><p><span style="color: rgb(255,102,0);"><strong>那么复杂的工时计算，可以使用我部门乔鹏飞自行开发的考勤计算工具哦，请下载：<a class="confluence-link" href="/confluence/download/attachments/1769498/iWorkTime.zip?version=1&amp;modificationDate=1388635102000&amp;api=v2" data-linked-resource-container-id="1769498" data-linked-resource-id="1900546" data-linked-resource-type="attachment" data-linked-resource-default-alias="iWorkTime.zip" data-base-url="http://10.2.1.106:8080/confluence"><span style="color: rgb(255,102,0);">iWorkTime.zip</span></a>（有了iworktime，再也不用担心算不清楚工时啦!）</strong></span></p><p>效果如下图（是不是很炫）：</p><p><img class="confluence-embedded-image" src="/confluence/download/attachments/1769498/QQ%E6%88%AA%E5%9B%BE20140102134106.png?version=1&amp;modificationDate=1388641300000&amp;api=v2" data-image-src="/confluence/download/attachments/1769498/QQ%E6%88%AA%E5%9B%BE20140102134106.png?version=1&amp;modificationDate=1388641300000&amp;api=v2" data-linked-resource-id="1900549" data-linked-resource-type="attachment" data-linked-resource-default-alias="QQ截图20140102134106.png" data-base-url="http://10.2.1.106:8080/confluence" data-linked-resource-container-id="1769498" title="日常事宜分享库 > 1.1考勤说明 > QQ截图20140102134106.png" data-location="日常事宜分享库 > 1.1考勤说明 > QQ截图20140102134106.png"></p><p>关于OA考勤系统的一些事宜，请点击链接：<a class="confluence-link" href="/confluence/pages/viewpage.action?pageId=3473433" data-linked-resource-id="3473433" data-linked-resource-type="page" data-linked-resource-default-alias="1.2OA&amp;#32771;&amp;#21220;&amp;#31995;&amp;#32479;&amp;#35828;&amp;#26126;" data-base-url="http://10.2.1.106:8080/confluence">1.2OA&#32771;&#21220;&#31995;&#32479;&#35828;&#26126;</a></p><p> </p>
+        <p>&nbsp;</p>
+    </body>
+</html>

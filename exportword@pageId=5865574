@@ -1,0 +1,252 @@
+Message-ID: <932670584.391.1402559844966.JavaMail.Administrator@IT01010030015>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_390_2107418365.1402559844966"
+
+------=_Part_390_2107418365.1402559844966
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Passport=E5=B7=A5=E7=A8=8B=E5=90=AF=E5=8A=A8=E6=8A=A5=E9=94=99=
+=EF=BC=9AError creating bean with name &#39;trainDataSyncService&#39;</titl=
+e>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Passport=E5=B7=A5=E7=A8=8B=E5=90=AF=E5=8A=A8=E6=8A=A5=E9=94=99=EF=
+=BC=9AError creating bean with name &#39;trainDataSyncService&#39;</h1>
+    <div class=3D"Section1">
+        <p>Q:</p>
+<p>org.apache.catalina.core.StandardContext listenerStart <br />SEVERE: Exc=
+eption sending context initialized event to listener instance of class com.=
+lvmama.comm.spring.SuperContextLoaderListener <br />org.springframework.bea=
+ns.factory.BeanCreationException: Error creating bean with name 'trainDataS=
+yncService' defined in class path resource [applicationContext-passport-ser=
+vice.xml]: Invocation of init method failed; nested exception is java.lang.=
+NullPointerException <br />at org.springframework.beans.factory.support.Abs=
+tractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanF=
+actory.<a href=3D"http://java:1412" class=3D"external-link" rel=3D"nofollow=
+">java:1412</a>) <br />at org.springframework.beans.factory.support.Abstrac=
+tAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory=
+.<a href=3D"http://java:519" class=3D"external-link" rel=3D"nofollow">java:=
+519</a>) <br />at org.springframework.beans.factory.support.AbstractAutowir=
+eCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.<a href=
+=3D"http://java:456" class=3D"external-link" rel=3D"nofollow">java:456</a>)=
+ <br />at org.springframework.beans.factory.support.AbstractBeanFactory$1.g=
+etObject(AbstractBeanFactory.<a href=3D"http://java:291" class=3D"external-=
+link" rel=3D"nofollow">java:291</a>) <br />at org.springframework.beans.fac=
+tory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBean=
+Registry.<a href=3D"http://java:222" class=3D"external-link" rel=3D"nofollo=
+w">java:222</a>) <br />at org.springframework.beans.factory.support.Abstrac=
+tBeanFactory.doGetBean(AbstractBeanFactory.<a href=3D"http://java:288" clas=
+s=3D"external-link" rel=3D"nofollow">java:288</a>) <br />at org.springframe=
+work.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.=
+<a href=3D"http://java:190" class=3D"external-link" rel=3D"nofollow">java:1=
+90</a>) <br />at org.springframework.beans.factory.support.DefaultListableB=
+eanFactory.preInstantiateSingletons(DefaultListableBeanFactory.<a href=3D"h=
+ttp://java:574" class=3D"external-link" rel=3D"nofollow">java:574</a>) <br =
+/>at org.springframework.context.support.AbstractApplicationContext.finishB=
+eanFactoryInitialization(AbstractApplicationContext.<a href=3D"http://java:=
+895" class=3D"external-link" rel=3D"nofollow">java:895</a>)</p>
+<p>&nbsp;</p>
+<p>A: =E7=81=AB=E8=BD=A6=E7=A5=A8=E7=9A=84=E4=B8=80=E4=B8=AA=E9=85=8D=E7=BD=
+=AE=E6=96=87=E4=BB=B6=E9=87=8D=E5=A4=8D</p>
+    </div>
+</body>
+</html>
+------=_Part_390_2107418365.1402559844966--

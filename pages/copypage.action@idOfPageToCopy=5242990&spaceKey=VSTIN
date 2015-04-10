@@ -1,0 +1,1334 @@
+<!DOCTYPE html>
+<html>
+<head>
+                    <title>复制页面 - vst_interfacePlatform - Confluence</title>
+    
+        
+
+                        
+    
+                        
+    
+
+                
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE,chrome=IE7">
+<meta charset="UTF-8">
+<meta id="confluence-context-path" name="confluence-context-path" content="/confluence">
+<meta id="confluence-base-url" name="confluence-base-url" content="http://10.2.1.106:8080/confluence">
+
+<meta id="atlassian-token" name="atlassian-token" content="8ae6be8a6191408e7569e2c9fc29dc9dd4a9eb19">
+
+<meta id="confluence-space-key" name="confluence-space-key" content="VSTIN">
+<script type="text/javascript">
+        var contextPath = '/confluence';
+</script>
+
+    
+
+<!-- include system css resources -->
+
+
+    <link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?media=print" media="print">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+8" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/92eb8b9b6cbddfc8414a8254cec7dab1/_/download/contextbatch/css/editor,atl.general,macro-browser/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/92eb8b9b6cbddfc8414a8254cec7dab1/_/download/contextbatch/css/editor,atl.general,macro-browser/batch.css?media=%28max-width%3A+1450px%29" media="(max-width: 1450px)">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/92eb8b9b6cbddfc8414a8254cec7dab1/_/download/contextbatch/css/editor,atl.general,macro-browser/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/343a02c431e88774cbedce89cd936a6e/_/download/contextbatch/css/main/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/6.3.1/_/download/batch/com.atlassian.confluence.plugins.confluence-space-ia:spacesidebar/com.atlassian.confluence.plugins.confluence-space-ia:spacesidebar.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/6.3.1/_/download/batch/com.atlassian.confluence.plugins.confluence-space-ia:spacesidebar/com.atlassian.confluence.plugins.confluence-space-ia:spacesidebar.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5.3.1/_/download/batch/confluence.extra.jira:web-resources-adg/confluence.extra.jira:web-resources-adg.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1/_/styles/colors.css?spaceKey=VSTIN" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/resources/com.atlassian.confluence.themes.default:styles/default-theme.css" media="all">
+
+<!-- end system css resources -->
+
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="robots" content="noarchive">
+    <meta name="confluence-request-time" content="1402559893685">
+        
+    
+        
+            <meta name="ajs-is-confluence-admin" content="false">
+            <meta name="ajs-connection-timeout" content="10000">
+            <meta name="ajs-use-keyboard-shortcuts" content="true">
+            <meta name="ajs-keyboardshortcut-hash" content="e1eacf5632106fb041da634d61fe0aa2">
+            <style>.ia-fixed-sidebar, .ia-splitter-left {width: 285px;}.theme-default .ia-splitter #main {margin-left: 285px;}.ia-fixed-sidebar {visibility: hidden;}</style>
+            
+
+    
+            
+    
+    
+            <meta name="ajs-page-id" content="0">
+            <meta name="ajs-form-name" content="createpageform">
+            <meta name="ajs-space-key" content="VSTIN">
+            <meta name="ajs-space-name" content="vst_interfacePlatform">
+            <meta name="ajs-original-parent-page" content="vst_interfacePlatform">
+            <meta name="ajs-parent-page-id" content="5242990">
+            <meta name="ajs-browse-page-tree-mode" content="create">
+            <meta name="ajs-original-content-title" content="复制从 vst_interfacePlatform">
+            <meta name="ajs-editor-auto-focus" content="false">
+            <meta name="ajs-content-type" content="page">
+            <meta name="ajs-min-editor-height" content="">
+            <meta name="ajs-editor-plugin-resource-prefix" content="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5.4/_">
+            <meta name="ajs-num-attachments" content="0">
+            <meta name="ajs-auto-start" content="true">
+            <meta name="ajs-cancel-button-close-text" content="取消">
+            <meta name="ajs-content-id" content="0">
+            <meta name="ajs-action-locale" content="zh_CN">
+            <meta name="ajs-save-drafts" content="true">
+            <meta name="ajs-use-inline-tasks" content="true">
+            <meta name="ajs-heartbeat" content="true">
+            <meta name="ajs-cancel-button-discard-text" content="">
+            <meta name="ajs-draft-id" content="0">
+            <meta name="ajs-new-page" content="true">
+            <meta name="ajs-attachment-source-content-id" content="0">
+            <meta name="ajs-editor-mode" content="richtext">
+            <meta name="ajs-draft-type" content="page">
+            <meta name="ajs-existing-draft-id" content="0">
+            <meta name="ajs-can-attach-files" content="false">
+            <meta name="ajs-max-thumb-width" content="300">
+            <meta name="ajs-can-send-email" content="true">
+            <meta name="ajs-is-dev-mode" content="false">
+            <meta name="ajs-draft-save-interval" content="30000">
+            <meta name="ajs-show-hidden-user-macros" content="false">
+            <meta name="ajs-is-admin" content="false">
+            <meta name="ajs-heartbeat-interval" content="30000">
+            <meta name="ajs-from-page-title" content="vst_interfacePlatform">
+            <meta name="ajs-can-remove-page" content="false">
+            <meta name="ajs-context-path" content="/confluence">
+            <meta name="ajs-base-url" content="http://10.2.1.106:8080/confluence">
+            <meta name="ajs-version-number" content="5.4">
+            <meta name="ajs-build-number" content="4726">
+            <meta name="ajs-remote-user" content="">
+            <meta name="ajs-current-user-fullname" content="">
+            <meta name="ajs-current-user-avatar-url" content="">
+            <meta name="ajs-static-resource-url-prefix" content="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/_">
+            <meta name="ajs-global-settings-attachment-max-size" content="20485760">
+            <meta name="ajs-user-locale" content="zh_CN">
+            <meta name="ajs-enabled-dark-features" content="sync.event">
+            <meta name="ajs-atl-token" content="8ae6be8a6191408e7569e2c9fc29dc9dd4a9eb19">
+            <meta name="ajs-confluence-flavour" content="VANILLA">
+            <meta name="ajs-editor.loader.resources" content="">
+            <meta name="ajs-date.format" content="MMM dd, yyyy">
+    
+    <link rel="shortcut icon" href="/confluence/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/confluence/favicon.ico">
+
+<link rel="search" type="application/opensearchdescription+xml" href="/confluence/opensearch/osd.action" title="Confluence"/>
+
+    <!-- include system javascript resources -->
+    <script type="text/javascript" src="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/js/batch.js" ></script>
+<!--[if lte IE 8]>
+<script type="text/javascript" src="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/js/batch.js?conditionalComment=lte+IE+8" ></script>
+<![endif]-->
+<script type="text/javascript" src="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/92eb8b9b6cbddfc8414a8254cec7dab1/_/download/contextbatch/js/editor,atl.general,macro-browser/batch.js" ></script>
+<script type="text/javascript" src="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/js/page/batch.js" ></script>
+<script type="text/javascript" src="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/343a02c431e88774cbedce89cd936a6e/_/download/contextbatch/js/main/batch.js" ></script>
+<script type="text/javascript" src="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/6.3.1/_/download/batch/com.atlassian.confluence.plugins.confluence-space-ia:soy-resources/com.atlassian.confluence.plugins.confluence-space-ia:soy-resources.js" ></script>
+<script type="text/javascript" src="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5.4/_/download/batch/com.atlassian.confluence.plugins.editor-loader:background-loading-editor/com.atlassian.confluence.plugins.editor-loader:background-loading-editor.js" ></script>
+<script type="text/javascript" src="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/6.3.1/_/download/batch/com.atlassian.confluence.plugins.confluence-space-ia:spacesidebar/com.atlassian.confluence.plugins.confluence-space-ia:spacesidebar.js" ></script>
+<script type="text/javascript" src="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.js" ></script>
+<script type="text/javascript" src="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.2/_/download/batch/com.atlassian.mywork.mywork-confluence-host-plugin:mw-header-anchor/com.atlassian.mywork.mywork-confluence-host-plugin:mw-header-anchor.js" ></script>
+
+    
+
+        
+    <!-- end system javascript resources -->
+
+        
+        
+
+    
+</head>
+
+<body             onload="placeFocus()"
+     id="com-atlassian-confluence" class="theme-default contenteditor copy-page aui-layout aui-theme-default">
+
+        
+    <ul id="assistive-skip-links" class="assistive">
+    <li><a href="#title-heading">转至内容</a></li>
+    <li><a href="#breadcrumbs">转至导航栏</a></li>
+    <li><a href="#header-menu-bar">转至主菜单</a></li>
+    <li><a href="#navigation">转至动作菜单</a></li>
+    <li><a href="#quick-search-query">转至快速搜索</a></li>
+</ul>
+<div id="page">
+<div id="full-height-container">
+    <div id="header-precursor">
+        <div class="cell">
+            
+                            </div>
+    </div>
+    
+
+
+
+<header id="header" role="banner">
+    <nav class="aui-header aui-dropdown2-trigger-group" role="navigation"><div class="aui-header-inner"><div class="aui-header-primary"><h1 id="logo" class="aui-header-logo aui-header-logo-custom"><a href="/confluence/"><img src="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/_/images/logo/confluence-logo.png" alt="Confluence" /></a></h1><ul class="aui-nav">
+                            <li>
+            
+        
+        
+<a  id="space-directory-link" href="/confluence/spacedirectory/view.action"  class=" aui-nav-imagelink"   title="空间">
+            <span>空间</span>
+    </a>
+        </li>
+                    <li>
+            
+    
+        
+<a  id="people-directory-link" href="/confluence/peopledirectory.action"  class=" aui-nav-imagelink"   title="人员">
+            <span>人员</span>
+    </a>
+        </li>
+                                            <li>
+            
+    
+        
+<a  id="create-page-button" href="/confluence"  class="aui-button aui-style aui-button-primary aui-nav-imagelink"   title="创建内容">
+            <span>创建</span>
+    </a>
+        </li>
+        </ul>
+</div><div class="aui-header-secondary"><ul class="aui-nav">
+                <li>
+<form id="quick-search" class="aui-quicksearch dont-default-focus header-quicksearch" action="/confluence/dosearchsite.action" method="get">
+    <fieldset>
+                        <label for="quick-search-query" class="assistive">快速搜索</label>
+        <input id="quick-search-query" class="text app-search search quick-search-query" type="text"
+               accessKey="q" autocomplete="off" name="queryString" title="快速搜索"  placeholder="搜索" />
+        <input id="quick-search-submit" class="quick-search-submit" type="submit" value="搜索"/>
+
+        <div class="aui-dd-parent quick-nav-drop-down"></div>
+    </fieldset>
+    <div class="hidden parameters">
+                    <!-- putMetadata failed to add value for key "quick-nav-enabled" so rendering metadata inline - see server debug log for details -->
+        <meta name="ajs-quick-nav-enabled" content="true">
+                </div>
+</form>
+</li>
+    <li>    
+        <a id="help-menu-link" class="aui-nav-link aui-dropdown2-trigger" href="#" aria-haspopup="true" aria-owns="help-menu-link-content" title="帮助">
+        <span class="aui-icon aui-icon-small aui-iconfont-help">帮助</span>
+    </a>
+    <nav id="help-menu-link-content" class="aui-dropdown2 aui-style-default" aria-hidden="true">
+                    <div class="aui-dropdown2-section">
+                <ul  id="help-menu-link-leading" class="aui-list-truncate section-leading first">
+                                            <li>
+    
+            
+<a  id="confluence-help-link" href="http://docs.atlassian.com/confluence/docs-54/Getting+Help+And+Support" class="    "      title="访问Confluence文档首页"  target="_blank"
+>
+        在线帮助
+</a>
+</li>
+                                            <li>
+    
+            
+<a  id="keyboard-shortcuts-link" href="/confluence" class="    "      title="查看可用的键盘快捷方式" >
+        快捷键
+</a>
+</li>
+                                            <li>
+    
+            
+<a  id="feed-builder-link" href="/confluence/dashboard/configurerssfeed.action" class="    "      title="创建个性化的 RSS源。" >
+        RSS源建立器
+</a>
+</li>
+                                            <li>
+    
+            
+<a  id="whats-new-menu-link" href="http://docs.atlassian.com/confluence/docs-54/whatsnew/iframe" class="    "      title="" >
+        新特点
+</a>
+</li>
+                                            <li>
+    
+            
+<a  id="gadget-directory-link" href="/confluence" class="   user-item administration-link "      title="浏览小工具" >
+        可用的小工具
+</a>
+</li>
+                                            <li>
+    
+            
+<a  id="confluence-about-link" href="/confluence/aboutconfluencepage.action" class="    "      title="获取关于Confluence的更多信息" >
+        关于Confluence
+</a>
+</li>
+                                    </ul>
+            </div>
+            </nav>
+    </li>
+    <li>    
+    </li>
+                <li>                                    <li>
+    
+            
+<a  id="login-link" href="/confluence/login.action?os_destination=%2Fpages%2Fcopypage.action%3FidOfPageToCopy%3D5242990%26spaceKey%3DVSTIN" class="   user-item login-link "      title="" >
+        登录
+</a>
+</li>
+                        </li>
+</ul>
+</div></div><!-- .aui-header-inner--></nav><!-- .aui-header -->
+    <br class="clear">
+</header>
+
+        <!-- \#header -->
+
+        
+        <div id="main" class=" aui-page-panel">
+                <div id="main-header">
+            
+            
+            <div id="title-heading" class="pagetitle with-breadcrumbs">
+                
+                                    <div id="breadcrumb-section">
+                        
+    
+    
+    <ol id="breadcrumbs">
+                    
+                
+        <li class="first" >
+                
+
+                    <span class=""><a href="/confluence/display/VSTIN">vst_interfacePlatform</a></span>
+                            
+                
+        <li>
+                
+
+                    <span class=""><a href="/confluence/collector/pages.action?key=VSTIN">页面</a></span>
+                            
+                
+        <li>
+                
+
+                    <span class=""><a href="/confluence/display/VSTIN/vst_interfacePlatform">vst_interfacePlatform</a></span>
+                </ol>
+
+
+                    </div>
+                
+                
+
+                <h1 id="title-text" class="with-breadcrumbs">
+                                                复制页面
+                                    </h1>
+            </div>
+        </div><!-- \#main-header -->
+        
+        
+
+        <div id="sidebar-container">
+                                                </div><!-- \#sidebar-container -->
+
+        
+    
+
+    
+
+                                                                                                                                                                                                                                                                        
+
+
+
+
+        
+
+    
+    
+        
+        
+    
+                    
+    
+
+
+
+
+
+<div id="content" class="page edit">
+    
+
+<div id="action-messages">
+                        </div>
+
+
+        <script type="text/x-template" title="searchResultsGrid">
+    <table class="aui">
+        <thead>
+            <tr class="header">
+                <th class="search-result-title">页面标题</th>
+                <th class="search-result-space">空间</th>
+                <th class="search-result-date">更新于</th>
+            </tr>
+        </thead>
+    </table>
+</script>
+<script type="text/x-template" title="searchResultsGridCount">
+    <p class="search-result-count">{0}</p>
+</script>
+<script type="text/x-template" title="searchResultsGridRow">
+    <tr class="search-result">
+        <td class="search-result-title"><a href="{1}" class="content-type-{2}"><span>{0}</span></a></td>
+        <td class="search-result-space"><a class="space" href="/confluence/display/{4}/" title="{3}">{3}</a></td>
+        <td class="search-result-date"><span class="date" title="{6}">{5}</span></td>
+    </tr>
+</script>
+        
+    
+                            
+                
+
+
+
+                                
+                    
+    
+
+
+<form id="createpageform" name="createpageform" method="post" action="docopypage.action?idOfPageToCopy=5242990" class="editor aui">
+    
+
+        <input type="hidden" name="atl_token" value="8ae6be8a6191408e7569e2c9fc29dc9dd4a9eb19">
+
+                <input
+    type="hidden"
+          name="queryString"            value="idOfPageToCopy=5242990&amp;amp;spaceKey=VSTIN"             />
+        <input
+    type="hidden"
+          name="fromPageId"            value="5242990"             />        <input
+    type="hidden"
+          name="spaceKey"            value="VSTIN"             />                        <input type="hidden" id="createPageLabelsString" name="labelsString" value=""/>
+
+                <input
+    type="hidden"
+          name="titleWritten"            value="true"                     id="titleWritten"           />
+        
+        <input
+    type="hidden"
+          name="linkCreation"            value="false"             />                
+        
+                
+    
+<div id="editor-precursor">
+    <div class="cell">
+    
+        <div id="content-title-div">
+            
+
+<div class="field-group
+    "
+        >
+    <label id="content-title-label" for="content-title">
+    
+        </label>
+
+                <input type="text" name="title" id="content-title"               value="复制从 vst_interfacePlatform"               tabindex="1"     class="text   pagetitle"         autocomplete="off"      placeholder="页面"          />
+                      </div>        </div>
+
+        <div id="editor-messages">
+            <div id="anonymous-warning" class="aui-message warning closeable">
+    <span class="svg-icon warning size-18"></span>
+    你还没有登录。你所做的任何更改会将作者标记为<span class="smalltext">匿名用户</span>。
+
+            如果你已经拥有帐户，请<a href="/confluence/login.action?os_destination=%2Fpages%2Fcopypage.action%3FidOfPageToCopy%3D5242990%26spaceKey%3DVSTIN">登录</a>。
+        你也可以<a href="/confluence/signup.action">注册</a>一个新帐户。
+    </div>
+
+                                
+<div id='heartbeat-div' class="hidden">
+    <div class="aui-message warning closeable">
+            <span class="aui-icon icon-warning"></span>
+        当前页面正在被<span id='other-users-span'></span>编辑。
+    </div>
+</div>
+
+
+        </div>
+        <div id="all-messages">
+            
+<div id="action-messages">
+                        </div>
+        </div>
+    </div>
+</div>
+
+    
+            
+
+<script type="text/x-template" title="editor-css">
+    <link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/batch/confluence.web.resources:panel-styles/confluence.web.resources:panel-styles.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/batch/confluence.web.resources:content-styles/confluence.web.resources:content-styles.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5.1.3/_/download/batch/com.atlassian.auiplugin:aui-page-typography/com.atlassian.auiplugin:aui-page-typography.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5.1.3/_/download/batch/com.atlassian.auiplugin:aui-avatars/com.atlassian.auiplugin:aui-avatars.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5.1.3/_/download/batch/com.atlassian.auiplugin:aui-page-layout/com.atlassian.auiplugin:aui-page-layout.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5.4/_/download/batch/com.atlassian.confluence.editor:editor-content-styles/com.atlassian.confluence.editor:editor-content-styles.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0.19/_/download/batch/com.atlassian.confluence.confluence-editor-hide-tools:confluence-editor-hide-tools-iframe-resources/com.atlassian.confluence.confluence-editor-hide-tools:confluence-editor-hide-tools-iframe-resources.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5.1.3/_/download/batch/com.atlassian.auiplugin:aui-lozenge/com.atlassian.auiplugin:aui-lozenge.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/2.13/_/download/batch/com.atlassian.confluence.plugins.status-macro:view_content_status/com.atlassian.confluence.plugins.status-macro:view_content_status.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/2.13/_/download/batch/com.atlassian.confluence.plugins.status-macro:editor_content_status/com.atlassian.confluence.plugins.status-macro:editor_content_status.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5.4/_/download/batch/com.atlassian.confluence.plugins.confluence-templates:variable-editor-content-styles/com.atlassian.confluence.plugins.confluence-templates:variable-editor-content-styles.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/3.6.8/_/download/batch/confluence.extra.attachments:attachments-css/confluence.extra.attachments:attachments-css.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5.4/_/download/batch/com.atlassian.confluence.plugins.confluence-inline-tasks:inline-tasks-styles/com.atlassian.confluence.plugins.confluence-inline-tasks:inline-tasks-styles.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5.4/_/download/batch/com.atlassian.confluence.plugins.confluence-page-layout:editor-pagelayout-content-styles/com.atlassian.confluence.plugins.confluence-page-layout:editor-pagelayout-content-styles.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/2.2.5/_/download/batch/com.atlassian.confluence.plugins.confluence-business-blueprints:sharelinks-urlmacro-editor-resources/com.atlassian.confluence.plugins.confluence-business-blueprints:sharelinks-urlmacro-editor-resources.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1/_/styles/colors.css?spaceKey=VSTIN" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/resources/com.atlassian.confluence.themes.default:styles/default-theme.css" media="all">
+
+</script>
+
+    
+
+
+
+
+
+        
+
+
+
+
+
+
+        
+            <div id="image-properties-tab-items" class="hidden">
+                <div title="Effects" data-weight="10">image-effects</div>
+            <div title="标题" data-weight="20">image-attributes</div>
+    </div>
+            
+
+<div id="link-browser-tab-items" class="hidden">
+                <div title="搜索" data-weight="10">search</div>
+            <div title="附件" data-weight="30">attachments</div>
+            <div title="Web链接" data-weight="40">weblink</div>
+            <div title="高级" data-weight="50">advanced</div>
+    </div>
+            
+
+
+
+
+
+
+
+
+
+
+
+        <div id="toolbar">
+        <div id="rte-toolbar" class="aui-toolbar aui-toolbar2">
+
+            <div class="aui-toolbar2-primary">
+                <ul class="aui-buttons">
+                                        <li id="format-dropdown" class="toolbar-item toolbar-dropdown">
+                        <div class="aui-dd-parent">
+                            <a id="format-dropdown-display" href="#" class="toolbar-trigger aui-dd-trigger aui-button" data-control-id="formatselect">
+                                <span class="dropdown-text">正文</span>
+                                    <span class="icon icon-dropdown "></span>
+                            </a>
+                            <ul id="format-dropdown-display-menu" class="aui-dropdown hidden">
+                                    <li class="dropdown-item format-p" data-format="p" data-tooltip="正文 (Ctrl+0)">
+        <a class="item-link" href="#">正文</a>
+    </li>
+                                    <li class="dropdown-item format-h1" data-format="h1" data-tooltip="标题 1 (Ctrl+1)">
+        <a class="item-link" href="#">标题 1</a>
+    </li>
+                                    <li class="dropdown-item format-h2" data-format="h2" data-tooltip="标题 2 (Ctrl+2)">
+        <a class="item-link" href="#">标题 2</a>
+    </li>
+                                    <li class="dropdown-item format-h3" data-format="h3" data-tooltip="标题 3 (Ctrl+3)">
+        <a class="item-link" href="#">标题 3</a>
+    </li>
+                                    <li class="dropdown-item format-h4" data-format="h4" data-tooltip="标题 4 (Ctrl+4)">
+        <a class="item-link" href="#">标题 4</a>
+    </li>
+                                    <li class="dropdown-item format-h5" data-format="h5" data-tooltip="标题 5 (Ctrl+5)">
+        <a class="item-link" href="#">标题 5</a>
+    </li>
+                                    <li class="dropdown-item format-h6" data-format="h6" data-tooltip="标题 6 (Ctrl+6)">
+        <a class="item-link" href="#">标题 6</a>
+    </li>
+                                    <li class="dropdown-item format-pre" data-format="pre" data-tooltip="预格式化 (Ctrl+7)">
+        <a class="item-link" href="#">预格式化</a>
+    </li>
+                                    <li class="dropdown-item format-blockquote" data-format="blockquote" data-tooltip="引用 (Ctrl+8)">
+        <a class="item-link" href="#">引用</a>
+    </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+
+                <ul class="aui-buttons">
+                    
+                <li class="toolbar-item aui-button" id="rte-button-bold"  data-tooltip="粗体 (Ctrl+B)">
+        <a class="toolbar-trigger" href="#" data-control-id="bold">
+                <span class="icon icon-bold ">粗体</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-italic"  data-tooltip="斜体 (Ctrl+I)">
+        <a class="toolbar-trigger" href="#" data-control-id="italic">
+                <span class="icon icon-italic ">斜体</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-underline"  data-tooltip="下划线 (Ctrl+U)">
+        <a class="toolbar-trigger" href="#" data-control-id="underline">
+                <span class="icon icon-underline ">下划线</span>
+        </a>
+    </li>
+                                        <li id="color-picker-control" class="toolbar-item toolbar-splitbutton">
+                        <a class="toolbar-trigger aui-button" href="#" id="rte-button-color" data-color="003366" data-tooltip='颜色'>
+                                <span class="icon icon-textcolor ">颜色选取器</span>
+                            <span class="selected-color"></span>
+                        </a>
+                        <div class="aui-dd-parent">
+                            <a class="toolbar-trigger aui-dd-trigger aui-button" href="#" id="rte-button-color-selector" data-control-id="colorSelector" data-tooltip='更多颜色'>
+                                    <span class="icon icon-dropdown ">更多颜色</span>
+                            </a>
+                            <div class="color-picker-container">
+                                <div class="color-picker aui-dropdown hidden">
+                                    <ul>
+            <li><a href="#" style="background-color: #000000" data-color="000000">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #993300" data-color="993300">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #333300" data-color="333300">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #003300" data-color="003300">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #003366" data-color="003366">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #000080" data-color="000080">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #333399" data-color="333399">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #333333" data-color="333333">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #800000" data-color="800000">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #FF6600" data-color="FF6600">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #808000" data-color="808000">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #008000" data-color="008000">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #008080" data-color="008080">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #0000FF" data-color="0000FF">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #666699" data-color="666699">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #808080" data-color="808080">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #FF0000" data-color="FF0000">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #FF9900" data-color="FF9900">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #99CC00" data-color="99CC00">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #339966" data-color="339966">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #33CCCC" data-color="33CCCC">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #3366FF" data-color="3366FF">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #800080" data-color="800080">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #999999" data-color="999999">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #FF00FF" data-color="FF00FF">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #FFCC00" data-color="FFCC00">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #FFFF00" data-color="FFFF00">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #00FF00" data-color="00FF00">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #00FFFF" data-color="00FFFF">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #00CCFF" data-color="00CCFF">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #993366" data-color="993366">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #C0C0C0" data-color="C0C0C0">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #FF99CC" data-color="FF99CC">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #FFCC99" data-color="FFCC99">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #FFFF99" data-color="FFFF99">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #CCFFCC" data-color="CCFFCC">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #CCFFFF" data-color="CCFFFF">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #99CCFF" data-color="99CCFF">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #CC99FF" data-color="CC99FF">&nbsp;</a></li>
+            <li><a href="#" style="background-color: #FFFFFF" data-color="FFFFFF">&nbsp;</a></li>
+    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li id="more-menu" class="toolbar-item toolbar-dropdown">
+                        <div class="aui-dd-parent">
+                            <a id="rte-button-more" href="#" class="toolbar-trigger aui-dd-trigger aui-button"  data-tooltip='更多'>
+                                    <span class="icon icon-more ">格式</span>
+                                    <span class="icon icon-dropdown "></span>
+                            </a>
+                            <div id="rte-button-more-menu" class="aui-dropdown grouped hidden">
+                                <div class="grouped-dropdown-item">
+                                    <ul>
+                                                                <li class="dropdown-item more-menu-trigger" data-control-id="strikethrough" data-tooltip="删除线 (Ctrl+Shift+S)">
+        <a id="rte-strikethrough" class="item-link" href="#">
+                <span class="icon icon-check hidden"></span>
+删除线
+        </a>
+    </li>
+                                                                 <li class="dropdown-item more-menu-trigger" data-control-id="sub" data-tooltip="">
+        <a id="rte-sub" class="item-link" href="#">
+                <span class="icon icon-check hidden"></span>
+下标
+        </a>
+    </li>
+                                                                 <li class="dropdown-item more-menu-trigger" data-control-id="sup" data-tooltip="">
+        <a id="rte-sup" class="item-link" href="#">
+                <span class="icon icon-check hidden"></span>
+上标
+        </a>
+    </li>
+                                                        <li class="dropdown-item more-menu-trigger" data-control-id="monospace" data-tooltip="用等宽字体格式化文本">
+        <a id="rte-monospace" class="item-link" href="#">
+                <span class="icon icon-check hidden"></span>
+等宽
+        </a>
+    </li>
+
+                                                                                                                    </ul>
+                                </div>
+                                <div class="grouped-dropdown-item">
+                                    <ul>
+                                            <li class="dropdown-item more-menu-trigger no-icon" data-format="removeformat"  data-tooltip="当前选中文本清除格式">
+        <a  id="rte-removeformat" class="item-link" href="#">
+            清除格式
+        </a>
+    </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                    </li>
+                </ul>
+
+                <ul class="aui-buttons">
+                    
+                <li class="toolbar-item aui-button" id="rte-button-bullist"  data-tooltip="无序列表 (Ctrl+Shift+B)">
+        <a class="toolbar-trigger" href="#" data-control-id="bullist">
+                <span class="icon icon-bullist ">无序列表</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-numlist"  data-tooltip="有序列表 (Ctrl+Shift+N)">
+        <a class="toolbar-trigger" href="#" data-control-id="numlist">
+                <span class="icon icon-numlist ">有序列表</span>
+        </a>
+    </li>
+                                            
+                <li class="toolbar-item aui-button" id="rte-button-tasklist"  data-tooltip="任务列表 ( )">
+        <a class="toolbar-trigger" href="#" data-control-id="tasklist">
+                <span class="icon icon-tasklist ">任务列表</span>
+        </a>
+    </li>
+                                    </ul>
+
+                <ul class="aui-buttons">
+                    
+                <li class="toolbar-item aui-button" id="rte-button-outdent"  data-tooltip="减小缩进t">
+        <a class="toolbar-trigger" href="#" data-control-id="outdent">
+                <span class="icon icon-outdent ">减小缩进t</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-indent"  data-tooltip="增大缩进">
+        <a class="toolbar-trigger" href="#" data-control-id="indent">
+                <span class="icon icon-indent ">增大缩进</span>
+        </a>
+    </li>
+                </ul>
+
+                <ul class="aui-buttons">
+                    
+                <li class="toolbar-item aui-button" id="rte-button-justifyleft"  data-tooltip="左对齐">
+        <a class="toolbar-trigger" href="#" data-control-id="justifyleft">
+                <span class="icon icon-justifyleft ">左对齐</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-justifycenter"  data-tooltip="居中">
+        <a class="toolbar-trigger" href="#" data-control-id="justifycenter">
+                <span class="icon icon-justifycenter ">居中</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-justifyright"  data-tooltip="右对齐">
+        <a class="toolbar-trigger" href="#" data-control-id="justifyright">
+                <span class="icon icon-justifyright ">右对齐</span>
+        </a>
+    </li>
+                </ul>
+
+                                <ul class="aui-buttons hidden" id="page-layout-2-group">
+                    <li id="page-layout-2" class="toolbar-item" data-tooltip='页面版式'>
+                        <a href="#" class="aui-button toolbar-trigger" id="rte-button-pagelayout-2">
+                                <span class="icon icon-layout ">页面版式</span>
+                        </a>
+                    </li>
+                </ul>
+                
+                <ul class="aui-buttons">
+                    <li class="toolbar-item" data-tooltip='插入链接 (Ctrl+K)'>
+                        <a id="rte-button-link" class="toolbar-trigger aui-button" href="#" data-control-id="linkbrowserButton">
+                                <span class="icon icon-link "></span>
+                            <span class="trigger-text">链接</span>
+                        </a>
+                    </li>
+                </ul>
+
+                <ul class="aui-buttons">
+                    <li class="toolbar-item toolbar-dropdown" id="insert-table-dropdown">
+                        <div class="aui-dd-parent">
+                            <a href="#" class="toolbar-trigger aui-dd-trigger aui-button" id="rte-button-insert-table" data-tooltip='插入表格'>
+                                    <span class="icon icon-table "></span>
+                                <span class="dropdown-text">表格</span>
+                                    <span class="icon icon-dropdown "></span>
+                            </a>
+
+                            <div id="table-picker-container" class="hidden">
+                                <div class="table-picker-box" data-tooltip='按住 SHIFT键，创建无表头表格 。'>
+                                    <div class="table-picker-background">
+                                        <div class="picker picker-cell"></div>
+                                        <div class="picker picker-heading heading"></div>
+                                        <div class="picker picker-selected-cell"></div>
+                                        <div class="picker picker-selected-heading heading"></div>
+                                    </div>
+                                    <p class="desc"></p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+
+                
+                
+                <ul class="aui-buttons">
+                    <li class="toolbar-item toolbar-dropdown" id="insert-menu">
+                        <div class="aui-dd-parent">
+                            <a href="#" class="toolbar-trigger aui-dd-trigger aui-button" id="rte-button-insert" data-tooltip='插入更多内容'>
+                                    <span class="icon icon-insert "></span>
+                                <span class="dropdown-text">插入</span>
+                                    <span class="icon icon-dropdown "></span>
+                            </a>
+
+                            <div id="insert-menu-options" class="aui-dropdown grouped hidden">
+                                <div class="grouped-dropdown-item">
+                                    <span class="assistive">插入内容</span>
+                                    <ul id="content-insert-list">
+                                        
+        
+        <li class="dropdown-item content-image" data-command="mceConfimage"  data-tooltip="插入图片 (Ctrl+M)">
+        <a  id="rte-insert-image" class="item-link" href="#">
+                <span class="icon "></span>
+ 图片
+        </a>
+    </li>
+                                        
+        
+        <li class="dropdown-item content-link" data-control-id="linkbrowserButton"  data-tooltip="插入链接 (Ctrl+K)">
+        <a  id="rte-insert-link" class="item-link" href="#">
+                <span class="icon "></span>
+ 链接
+        </a>
+    </li>
+                                                                                    
+    
+        <li class="dropdown-item content-attachment" data-command="mceConfAttachments"  data-tooltip="插入附件">
+        <a  id="rte-insert-attachment" class="item-link" href="#">
+                <span class="icon "></span>
+ 附件
+        </a>
+    </li>
+                                                                                
+    
+        <li class="dropdown-item content-symbol" data-command="confCharmap"  data-tooltip="插入符号">
+        <a  id="rte-insert-symbol" class="item-link" href="#">
+                <span class="icon "></span>
+ 符号
+        </a>
+    </li>
+                                        
+    
+        <li class="dropdown-item content-emoticon" data-command="mceEmotion"  data-tooltip="插入表情">
+        <a  id="rte-insert-emoticon" class="item-link" href="#">
+                <span class="icon "></span>
+ 表情符号
+        </a>
+    </li>
+                                        
+        
+        <li class="dropdown-item content-wikimarkup" data-command="InsertWikiMarkup"  data-tooltip="Insert Markup (Ctrl+Shift+D)">
+        <a  id="rte-insert-wikimarkup" class="item-link" href="#">
+                <span class="icon "></span>
+ Markup
+        </a>
+    </li>
+                                        
+    
+        <li class="dropdown-item content-hr" data-command="InsertHorizontalRule"  data-tooltip="插入水平线(----)">
+        <a  id="rte-insert-hr" class="item-link" href="#">
+                <span class="icon "></span>
+ 水平线
+        </a>
+    </li>
+                                                                                    
+        
+        <li class="dropdown-item content-tasklist" data-command="InsertInlineTaskListNoToggle"  data-tooltip="插入任务列表 ( )">
+        <a  id="rte-insert-tasklist" class="item-link" href="#">
+                <span class="icon "></span>
+ 任务列表
+        </a>
+    </li>
+                                                                            </ul>
+                                </div>
+                                <div class="grouped-dropdown-item">
+                                    <span class="assistive">插入宏</span>
+                                    <ul id="macro-insert-list">
+                                                                                                                                                                                <li class="dropdown-item macro-insertmention-button" data-macro-name="insertmention-button"  data-tooltip="插入&#39;用户提及&#39;宏">
+        <a  id="insertmention-button" class="item-link" href="#">
+                <span class="icon "></span>
+ 用户提及
+        </a>
+    </li>
+                                                                                                <li class="dropdown-item macro-jiralink" data-macro-name="jiralink"  data-tooltip="插入&#39;JIRA事务&#39;宏">
+        <a  id="jiralink" class="item-link" href="#">
+                <span class="icon "></span>
+ JIRA事务
+        </a>
+    </li>
+                                                                                                <li class="dropdown-item macro-info" data-macro-name="info"  data-tooltip="插入&#39;信息&#39;宏">
+        <a  id="info" class="item-link" href="#">
+                <span class="icon "></span>
+ 信息
+        </a>
+    </li>
+                                                                                                <li class="dropdown-item macro-status" data-macro-name="status"  data-tooltip="插入&#39;状态&#39;宏">
+        <a  id="status" class="item-link" href="#">
+                <span class="icon "></span>
+ 状态
+        </a>
+    </li>
+                                                                                                <li class="dropdown-item macro-gallery" data-macro-name="gallery"  data-tooltip="插入&#39;画廊&#39;宏">
+        <a  id="gallery" class="item-link" href="#">
+                <span class="icon "></span>
+ 画廊
+        </a>
+    </li>
+                                                                                                <li class="dropdown-item macro-toc" data-macro-name="toc"  data-tooltip="插入&#39;目录&#39;宏">
+        <a  id="toc" class="item-link" href="#">
+                <span class="icon "></span>
+ 目录
+        </a>
+    </li>
+                                                                                                                            
+        
+        <li class="dropdown-item content-macro" data-command="mceConfMacroBrowser"  data-tooltip="打开宏浏览器 (Ctrl+Shift+A)">
+        <a  id="rte-insert-macro" class="item-link" href="#">
+                <span class="icon "></span>
+ 其他宏
+        </a>
+    </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+                                <ul class="aui-buttons">
+                    <li id="pagelayout-menu" class="toolbar-item toolbar-dropdown">
+                        <div class="aui-dd-parent">
+                            <a href="#" class="toolbar-trigger aui-dd-trigger aui-button" id="rte-button-pagelayout" data-tooltip='页面版式'>
+                                    <span class="icon icon-layout pagelayout-default">页面版式</span>
+                                    <span class="icon icon-dropdown "></span>
+                            </a>
+
+                            <ul id="pagelayout-menu-options" class="aui-dropdown hidden">
+                                <li class="dropdown-item" data-tooltip="没有版式">
+    <a href="#" class="item-link" data-atlassian-layout='{"name": "pagelayout-none", "columns": 0   }' >
+            <span class="icon icon-check hidden"></span>
+            <span class="icon icon-layout pagelayout-none">没有版式</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="两栏 (简单)">
+    <a href="#" class="item-link" data-atlassian-layout='{"name": "pagelayout-two-simple", "columns": [&quot;&quot;, &quot;&quot;]   }' >
+            <span class="icon icon-check hidden"></span>
+            <span class="icon icon-layout pagelayout-two-simple">两栏 (简单)</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="两栏 (简单，左侧栏)">
+    <a href="#" class="item-link" data-atlassian-layout='{"name": "pagelayout-two-simple-left", "columns": [&quot;aside&quot;, &quot;large&quot;]   }' >
+            <span class="icon icon-check hidden"></span>
+            <span class="icon icon-layout pagelayout-two-simple-left">两栏 (简单，左侧栏)</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="两栏 (简单，右侧栏)">
+    <a href="#" class="item-link" data-atlassian-layout='{"name": "pagelayout-two-simple-right", "columns": [&quot;large&quot;, &quot;aside&quot;]   }' >
+            <span class="icon icon-check hidden"></span>
+            <span class="icon icon-layout pagelayout-two-simple-right">两栏 (简单，右侧栏)</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="三栏 (简单)">
+    <a href="#" class="item-link" data-atlassian-layout='{"name": "pagelayout-three-simple", "columns": [&quot;&quot;, &quot;&quot;, &quot;&quot;]   }' >
+            <span class="icon icon-check hidden"></span>
+            <span class="icon icon-layout pagelayout-three-simple">三栏 (简单)</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="两栏">
+    <a href="#" class="item-link" data-atlassian-layout='{"name": "pagelayout-two", "columns": [&quot;&quot;, &quot;&quot;] , "header": true  , "footer":true  }' >
+            <span class="icon icon-check hidden"></span>
+            <span class="icon icon-layout pagelayout-two">两栏</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="两栏 (左侧栏)">
+    <a href="#" class="item-link" data-atlassian-layout='{"name": "pagelayout-two-left", "columns": [&quot;aside&quot;, &quot;large&quot;] , "header": true  , "footer":true  }' >
+            <span class="icon icon-check hidden"></span>
+            <span class="icon icon-layout pagelayout-two-left">两栏 (左侧栏)</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="两栏 (右侧栏)">
+    <a href="#" class="item-link" data-atlassian-layout='{"name": "pagelayout-two-right", "columns": [&quot;large&quot;, &quot;aside&quot;] , "header": true  , "footer":true  }' >
+            <span class="icon icon-check hidden"></span>
+            <span class="icon icon-layout pagelayout-two-right">两栏 (右侧栏)</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="三栏">
+    <a href="#" class="item-link" data-atlassian-layout='{"name": "pagelayout-three", "columns": [&quot;&quot;, &quot;&quot;, &quot;&quot;] , "header": true  , "footer":true  }' >
+            <span class="icon icon-check hidden"></span>
+            <span class="icon icon-layout pagelayout-three">三栏</span>
+    </a>
+</li>
+                                <li class="dropdown-item" data-tooltip="三栏 (左边和右侧栏)">
+    <a href="#" class="item-link" data-atlassian-layout='{"name": "pagelayout-three-sidebars", "columns": [&quot;sidebars&quot;, &quot;large&quot;, &quot;sidebars&quot;] , "header": true  , "footer":true  }' >
+            <span class="icon icon-check hidden"></span>
+            <span class="icon icon-layout pagelayout-three-sidebars">三栏 (左边和右侧栏)</span>
+    </a>
+</li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                
+                <ul class="aui-buttons">
+                    
+                <li class="toolbar-item aui-button" id="rte-button-undo"  data-tooltip="回退 (Ctrl+Z)">
+        <a class="toolbar-trigger" href="#" data-control-id="undo">
+                <span class="icon icon-undo ">回退</span>
+        </a>
+    </li>
+                    
+                <li class="toolbar-item aui-button" id="rte-button-redo"  data-tooltip="重做 (Ctrl+Y)">
+        <a class="toolbar-trigger" href="#" data-control-id="redo">
+                <span class="icon icon-redo ">重做</span>
+        </a>
+    </li>
+                </ul>
+
+                
+            </div>            <div class="aui-toolbar2-secondary">
+                <ul class="aui-buttons">
+                        <li class="toolbar-item aui-button" id="rte-button-searchreplace"  data-tooltip="查找/替换">
+        <a class="toolbar-trigger" href="#" data-control-id="searchreplace">
+                <span class="icon icon-searchreplace ">查找/替换</span>
+        </a>
+    </li>
+                </ul>
+                <ul class="aui-buttons">
+                        <li class="toolbar-item aui-button" id="rte-button-help"  data-tooltip="帮助">
+        <a class="toolbar-trigger" href="#" data-control-id="help">
+                <span class="icon icon-help ">键盘快捷键帮助</span>
+        </a>
+    </li>
+                </ul>
+            </div>        </div>    </div>
+    <div id="wysiwyg" >
+        <div id="rte" class="cell editor-fullheight">
+            <textarea id="wysiwygTextarea" name="wysiwygContent" class="hidden tinymce-editor">&lt;div class=&quot;contentLayout2&quot;&gt;
+&lt;div class=&quot;columnLayout single&quot; data-layout=&quot;single&quot;&gt;
+&lt;div class=&quot;cell normal&quot; data-type=&quot;normal&quot;&gt;
+&lt;div class=&quot;innerCell&quot;&gt;
+
+            &lt;table class=&quot;wysiwyg-macro&quot; data-macro-name=&quot;tip&quot; data-macro-parameters=&quot;title=欢迎！&quot; style=&quot;background-image: url(/confluence/plugins/servlet/confluence/placeholder/macro-heading?definition=e3RpcDp0aXRsZT3mrKLov47vvIF9&amp;amp;locale=zh_CN&amp;amp;version=2); background-repeat: no-repeat;&quot; data-macro-body-type=&quot;RICH_TEXT&quot;&gt;&lt;tr&gt;&lt;td class=&quot;wysiwyg-macro-body&quot;&gt;
+                    &lt;p&gt;这是您的知识库空间首页。您可以使用您的知识库来保留最佳实践以及记录常见问题。&lt;/p&gt;
+                &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+            &lt;p&gt;&lt;br /&gt;下一步，您可能想要：&lt;/p&gt;
+            &lt;ul class=&quot;inline-task-list&quot; data-inline-tasks-content-id=&quot;0&quot;&gt;
+&lt;li class=&quot;checked&quot; data-inline-task-id=&quot;1&quot;&gt;&lt;strong&gt;创建您的第一个知识库文章&lt;/strong&gt; - 点击“创建”并选择“指南”或“疑难解答”文章。&lt;/li&gt;
+&lt;li data-inline-task-id=&quot;2&quot;&gt;
+                        &lt;strong&gt;自定义首页&lt;/strong&gt; - 点击“编辑”开始。包括有用的信息，例如用户能在这个知识库中找到什么，常见的问题以及到其他资源的链接等。&lt;br /&gt;
+                    &lt;/li&gt;
+&lt;/ul&gt;
+
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;columnLayout single&quot; data-layout=&quot;single&quot;&gt;
+&lt;div class=&quot;cell normal&quot; data-type=&quot;normal&quot;&gt;
+&lt;div class=&quot;innerCell&quot;&gt;
+
+            &lt;p&gt; &lt;/p&gt;
+            &lt;p&gt; &lt;/p&gt;
+            &lt;p style=&quot;text-align: center;&quot;&gt;
+                &lt;img class=&quot;editor-inline-macro&quot; src=&quot;/confluence/plugins/servlet/confluence/placeholder/macro?definition=e2xpdmVzZWFyY2g6YWRkaXRpb25hbD1wYWdlIGV4Y2VycHR8cGxhY2Vob2xkZXI95p-l5om-6Kej5Yaz5pa55qGIfHNwYWNlS2V5PVZTVElOfHR5cGU9cGFnZXxzaXplPWxhcmdlfQ&amp;amp;locale=zh_CN&amp;amp;version=2&quot; data-macro-name=&quot;livesearch&quot; data-macro-parameters=&quot;additional=page excerpt|placeholder=查找解决方案|size=large|spaceKey=VSTIN|type=page&quot;&gt;
+            &lt;/p&gt;
+            &lt;p&gt; &lt;/p&gt;
+            &lt;p&gt; &lt;/p&gt;
+            &lt;p&gt;对接平台相关文档&lt;/p&gt;
+            &lt;hr /&gt;
+            &lt;p&gt; &lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;columnLayout three-equal&quot; data-layout=&quot;three-equal&quot;&gt;
+&lt;div class=&quot;cell normal&quot; data-type=&quot;normal&quot;&gt;
+&lt;div class=&quot;innerCell&quot;&gt;
+
+                &lt;h3&gt;常见问题&lt;/h3&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;增加链接到受欢迎的指南文章和疑难解答文章。&lt;/li&gt;
+                    &lt;li&gt;高亮显示重要文档。&lt;/li&gt;
+                &lt;/ul&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;cell normal&quot; data-type=&quot;normal&quot;&gt;
+&lt;div class=&quot;innerCell&quot;&gt;
+
+                &lt;h3&gt;需要更多帮助？&lt;/h3&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;链接到资源，例如您的服务中心，Q&amp;amp;A或论坛。&lt;/li&gt;
+                    &lt;li&gt;列出联系方式以获取额外的帮助。&lt;/li&gt;
+                &lt;/ul&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;cell normal&quot; data-type=&quot;normal&quot;&gt;
+&lt;div class=&quot;innerCell&quot;&gt;
+
+                &lt;h3&gt;其他资源&lt;/h3&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;包括到相关外部站点和服务的链接。&lt;/li&gt;
+                    &lt;li&gt;添加其他有用的信息。&lt;/li&gt;
+                &lt;/ul&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;columnLayout single&quot; data-layout=&quot;single&quot;&gt;
+&lt;div class=&quot;cell normal&quot; data-type=&quot;normal&quot;&gt;
+&lt;div class=&quot;innerCell&quot;&gt;
+
+            &lt;p&gt; &lt;/p&gt;
+            &lt;hr /&gt;
+            &lt;p&gt; &lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;columnLayout two-equal&quot; data-layout=&quot;two-equal&quot;&gt;
+&lt;div class=&quot;cell normal&quot; data-type=&quot;normal&quot;&gt;
+&lt;div class=&quot;innerCell&quot;&gt;
+
+            &lt;h2&gt;Browse by topic&lt;/h2&gt;
+            &lt;p&gt;
+                &lt;img class=&quot;editor-inline-macro&quot; src=&quot;/confluence/plugins/servlet/confluence/placeholder/macro?definition=e2xpc3RsYWJlbHM6ZXhjbHVkZWRMYWJlbHM9a2ItaG93LXRvLWFydGljbGUsa2ItdHJvdWJsZXNob290aW5nLWFydGljbGV9&amp;amp;locale=zh_CN&amp;amp;version=2&quot; data-macro-name=&quot;listlabels&quot; data-macro-parameters=&quot;excludedLabels=kb-how-to-article,kb-troubleshooting-article&quot;&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;cell normal&quot; data-type=&quot;normal&quot;&gt;
+&lt;div class=&quot;innerCell&quot;&gt;
+
+            &lt;h2&gt;Recently updated articles&lt;/h2&gt;
+            &lt;p&gt;
+                
+                &lt;img class=&quot;editor-inline-macro&quot; src=&quot;/confluence/plugins/servlet/confluence/placeholder/macro?definition=e3JlY2VudGx5LXVwZGF0ZWQ6aGlkZUhlYWRpbmc9dHJ1ZXx0eXBlcz1wYWdlLGJsb2dwb3N0fQ&amp;amp;locale=zh_CN&amp;amp;version=2&quot; data-macro-name=&quot;recently-updated&quot; data-macro-parameters=&quot;hideHeading=true|types=page,blogpost&quot;&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</textarea>
+        </div>
+    </div>
+    <div id="editor-html-source-container" class="hidden">
+        <textarea id="editor-html-source" class="monospaceInput"></textarea>
+    </div>
+
+    <div id="preview">
+                        <div id="previewArea" class="cell">
+        </div>
+    </div>
+
+            
+
+<div id="savebar-container">
+    <div id="rte-savebar" class="aui-toolbar aui-toolbar2">
+
+                    
+        
+        <div class="toolbar-split toolbar-split-row">
+            <div class="toolbar-split toolbar-split-left">
+            <div class="aui-buttons">
+                                                                                            <button class="aui-button" type="button" data-tooltip="插入附件" id="rte-button-attachments">
+                        <span class="icon icon-attachment"></span>
+                        <span class="trigger-text">附件 发表：</span>
+                    </button>
+                                                                            <button class="aui-button" type="button" data-tooltip="编辑页面标签" id="rte-button-labels">
+                        <span class="icon icon-labels"></span>
+                        <span class="trigger-text">标签</span>
+                    </button>
+                                                                            <button class="aui-button" type="button" data-tooltip="编辑页面位置" id="rte-button-location">
+                        <span class="icon icon-location"></span>
+                        <span class="trigger-text">位置</span>
+                    </button>
+                            </div>
+                    </div>            <div class="toolbar-split toolbar-split-right">
+            
+                    <div class="aui-buttons">
+                <span id="rte-spinner" class="toolbar-item">&nbsp;</span>
+            </div>
+            <div class="aui-buttons toolbar-group-edit assistive">
+                <button id="rte-button-edit" class="aui-button" title='返回编辑模式' type="button">
+                    <span class="trigger-text">编辑</span>
+                </button>
+            </div>
+            <div class="aui-buttons toolbar-group-preview">
+                <button class="aui-button toolbar-item" id="rte-button-preview" title='预览' type="button">
+                    <span class="trigger-text">预览</span>
+                </button>
+            </div>
+
+        
+            <div class="save-button-container">
+                                                                                                                                                            <button class="aui-button aui-button-primary" type="submit" id="rte-button-publish" name="confirm" value="Save"  title="保存" >
+                            <span class="trigger-text">保存</span>
+                        </button>
+                                                </div>
+                                            <button class="toolbar-item-link aui-button aui-button-link" type="submit" id="rte-button-cancel" value="discard" name="cancel"><span class="trigger-text">取消</span></button>
+
+        </div>         </div>
+                    <div class="toolbar-split toolbar-split-row" id="toolbar-hints-draft-status">
+                <div class="toolbar-split toolbar-split-left">
+                    <div class="hints hints-open">
+                        <span class="hints-controls">
+                            <a href="#" class="hints-next" data-tooltip="下一提示"><span
+                                    class="icon">下一提示</span></a>
+                        </span>
+                        <span class="hints-text"></span>
+                    </div>
+                </div>
+                <div class="toolbar-split toolbar-split-right">
+                    <div id="draft-status"></div>
+                </div>
+            </div>
+             </div> </div>
+
+    
+    
+
+
+
+                        
+    
+                        
+    
+                                                                                                                                                                                                                                                                                                                                                
+            		        		        		        		        		        		        		        	
+    
+
+<script type="text/x-template" title="tableForm">
+    <form id="tinymce-table-form" class="aui">
+        <div class="field-group">
+            <label for="rows">行</label>
+            <input id="rows" name="rows" type="text" size="3" autocomplete="off" value="{0}">
+        </div>
+        <div class="field-group">
+            <label for="cols">列</label>
+            <input id="cols" name="cols" type="text" size="3" autocomplete="off" value="{1}">
+        </div>
+        <div class="field-group hidden">
+            <input id="width" type="hidden" name="width" value="">
+            <label for="width">宽</label>
+        </div>
+        <div class="group">
+            <div class="checkbox">
+                <input id="table-heading-checkbox" class="checkbox" type="checkbox" name="heading" checked="checked" value="true">
+                <label for="table-heading-checkbox">首行设为表头</label>
+            </div>
+        </div>
+        <div class="group hidden">
+            <div class="checkbox">
+                <input id="table-equal-width-columns-checkbox" class="checkbox" type="checkbox" name="equal-width-columns" value="false">
+                <label for="table-equal-width-columns-checkbox">等宽列</label>
+            </div>
+        </div>
+    </form>
+</script>
+    <input id="parentPageString" type="hidden" name="parentPageString" value="vst_interfacePlatform">
+    <input id="hierarchy_checkbox" type="hidden" name="moveHierarchy" value="true">
+    <input id="position" type="hidden" name="position" value="">
+    <input id="targetId" type="hidden" name="targetId" value="">
+    <input id="draftId" type="hidden" name="draftId" value="0">
+    <input id="entityId" type="hidden" name="entityId" value="0">
+    <input id="newSpaceKey" type="hidden" name="newSpaceKey" value="VSTIN">
+</form>
+        
+    
+
+            
+</div>
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+    </div><!-- \#main -->
+        
+    
+        
+            <div id="footer">
+
+    <section class="footer-body">
+
+                        
+    
+
+    <ul id="poweredby">
+        <li class="noprint">由以下机构提供技术支持：<a href="http://www.atlassian.com/software/confluence" class="hover-footer-link">Atlassian Confluence</a> <span id='footer-build-information'>5.4</span>, <a href="http://www.atlassian.com/software/confluence/overview/team-collaboration-software?utm_source=confluence-footer" class="hover-footer-link">Team Collaboration Software</a></li>
+        <li class="print-only">由以下机构打印：Atlassian Confluence 5.4, Team Collaboration Software.</li>
+        <li class="noprint"><a href="http://jira.atlassian.com/secure/BrowseProject.jspa?id=10470" class="hover-footer-link">报告缺陷</a></li>
+        <li class="noprint"><a href="http://www.atlassian.com/about/connected.jsp?s_kwcid=Confluence-stayintouch" class="hover-footer-link">Atlassian 新闻</a></li>
+    </ul>
+
+    
+
+            
+    
+    </section>
+
+</div>
+
+            
+    
+
+</div><!-- \#full-height-container -->
+</div><!-- \#page -->
+</body>
+</html>

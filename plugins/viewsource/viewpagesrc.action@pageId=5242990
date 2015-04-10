@@ -1,0 +1,141 @@
+                    
+    
+                    
+    
+                    
+    
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>查看源</title>
+        <link rel="canonical" href="/confluence/pages/viewpage.action?pageId=5242990" />
+        <link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?media=print" media="print">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+8" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/540325f998b5a41b60b4c19911f6a7d9/_/download/contextbatch/css/plugin.viewsource/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/79c738f4bfcbaa104651b3a3b7065227/_/download/contextbatch/css/editor-content/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1/_/styles/colors.css?spaceKey=VSTIN" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/resources/com.atlassian.confluence.themes.default:styles/default-theme.css" media="all">
+
+    </head>
+
+    <body class="mceContentBody aui-theme-default wiki-content fullsize">
+        <p>&nbsp;</p>         <div class="contentLayout2">
+<div class="columnLayout single" data-layout="single">
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+
+            <table class="wysiwyg-macro" data-macro-name="tip" data-macro-parameters="title=欢迎！" style="background-image: url(/confluence/plugins/servlet/confluence/placeholder/macro-heading?definition=e3RpcDp0aXRsZT3mrKLov47vvIF9&amp;locale=zh_CN&amp;version=2); background-repeat: no-repeat;" data-macro-body-type="RICH_TEXT"><tr><td class="wysiwyg-macro-body">
+                    <p>这是您的知识库空间首页。您可以使用您的知识库来保留最佳实践以及记录常见问题。</p>
+                </td></tr></table>
+            <p><br />下一步，您可能想要：</p>
+            <ul class="inline-task-list" data-inline-tasks-content-id="5242990">
+<li class="checked" data-inline-task-id="1"><strong>创建您的第一个知识库文章</strong> - 点击“创建”并选择“指南”或“疑难解答”文章。</li>
+<li data-inline-task-id="2">
+                        <strong>自定义首页</strong> - 点击“编辑”开始。包括有用的信息，例如用户能在这个知识库中找到什么，常见的问题以及到其他资源的链接等。<br />
+                    </li>
+</ul>
+
+        </div>
+</div>
+</div>
+<div class="columnLayout single" data-layout="single">
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+
+            <p> </p>
+            <p> </p>
+            <p style="text-align: center;">
+                <img class="editor-inline-macro" src="/confluence/plugins/servlet/confluence/placeholder/macro?definition=e2xpdmVzZWFyY2g6YWRkaXRpb25hbD1wYWdlIGV4Y2VycHR8cGxhY2Vob2xkZXI95p-l5om-6Kej5Yaz5pa55qGIfHNwYWNlS2V5PVZTVElOfHR5cGU9cGFnZXxzaXplPWxhcmdlfQ&amp;locale=zh_CN&amp;version=2" data-macro-name="livesearch" data-macro-parameters="additional=page excerpt|placeholder=查找解决方案|size=large|spaceKey=VSTIN|type=page">
+            </p>
+            <p> </p>
+            <p> </p>
+            <p>对接平台相关文档</p>
+            <hr />
+            <p> </p>
+        </div>
+</div>
+</div>
+<div class="columnLayout three-equal" data-layout="three-equal">
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+
+                <h3>常见问题</h3>
+                <ul>
+                    <li>增加链接到受欢迎的指南文章和疑难解答文章。</li>
+                    <li>高亮显示重要文档。</li>
+                </ul>
+        </div>
+</div>
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+
+                <h3>需要更多帮助？</h3>
+                <ul>
+                    <li>链接到资源，例如您的服务中心，Q&amp;A或论坛。</li>
+                    <li>列出联系方式以获取额外的帮助。</li>
+                </ul>
+        </div>
+</div>
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+
+                <h3>其他资源</h3>
+                <ul>
+                    <li>包括到相关外部站点和服务的链接。</li>
+                    <li>添加其他有用的信息。</li>
+                </ul>
+        </div>
+</div>
+</div>
+<div class="columnLayout single" data-layout="single">
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+
+            <p> </p>
+            <hr />
+            <p> </p>
+        </div>
+</div>
+</div>
+<div class="columnLayout two-equal" data-layout="two-equal">
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+
+            <h2>Browse by topic</h2>
+            <p>
+                <img class="editor-inline-macro" src="/confluence/plugins/servlet/confluence/placeholder/macro?definition=e2xpc3RsYWJlbHM6ZXhjbHVkZWRMYWJlbHM9a2ItaG93LXRvLWFydGljbGUsa2ItdHJvdWJsZXNob290aW5nLWFydGljbGV9&amp;locale=zh_CN&amp;version=2" data-macro-name="listlabels" data-macro-parameters="excludedLabels=kb-how-to-article,kb-troubleshooting-article">
+            </p>
+        </div>
+</div>
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+
+            <h2>Recently updated articles</h2>
+            <p>
+                
+                <img class="editor-inline-macro" src="/confluence/plugins/servlet/confluence/placeholder/macro?definition=e3JlY2VudGx5LXVwZGF0ZWQ6aGlkZUhlYWRpbmc9dHJ1ZXx0eXBlcz1wYWdlLGJsb2dwb3N0fQ&amp;locale=zh_CN&amp;version=2" data-macro-name="recently-updated" data-macro-parameters="hideHeading=true|types=page,blogpost">
+            </p>
+        </div>
+</div>
+</div>
+</div>
+        <p>&nbsp;</p>
+    </body>
+</html>

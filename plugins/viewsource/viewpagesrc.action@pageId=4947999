@@ -1,0 +1,42 @@
+                    
+    
+                    
+    
+                    
+    
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>查看源</title>
+        <link rel="canonical" href="/confluence/pages/viewpage.action?pageId=4947999" />
+        <link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?media=print" media="print">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+8" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/540325f998b5a41b60b4c19911f6a7d9/_/download/contextbatch/css/plugin.viewsource/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/79c738f4bfcbaa104651b3a3b7065227/_/download/contextbatch/css/editor-content/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1/_/styles/colors.css?spaceKey=Lvmama" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/resources/com.atlassian.confluence.themes.default:styles/default-theme.css" media="all">
+
+    </head>
+
+    <body class="mceContentBody aui-theme-default wiki-content fullsize">
+        <p>&nbsp;</p>         <p><strong>Domain</strong><strong>分工：</strong></p><table class="confluenceTable"><tbody><tr><td class="confluenceTd"><p>短信服务</p></td><td class="confluenceTd"><p>开发：李坤<br /> 跟合作方商务沟通是苏屹<br /> 管理后台权限：李坤有</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>首页分站</p></td><td class="confluenceTd"><p>开发：倪现军</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>焦点广告代码</p></td><td class="confluenceTd"><p>开发：倪现军</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>Losc监测</p></td><td class="confluenceTd"><p>开发：钟双喜</p></td><td class="confluenceTd"><p>原先系统的实现逻辑缺乏文档，没有人比较了解</p></td></tr><tr><td class="confluenceTd"><p>前台预订流程——门票流程</p></td><td class="confluenceTd"><p>开发：曾磊（相对熟悉一些）</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>前台预订流程——酒店、线路</p></td><td class="confluenceTd"><p>没人开发人员比较熟悉</p></td><td class="confluenceTd"><p>原先杨斌了解一些</p></td></tr><tr><td class="confluenceTd"><p>团购预约</p></td><td class="confluenceTd"><p>开发：曾磊</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>签证</p></td><td class="confluenceTd"><p>开发：刘东</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>全站IP库</p></td><td class="confluenceTd"><p>开发：倪现军</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>旅程系统</p></td><td class="confluenceTd"><p>开发：叶义天</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>攻略、专题</p></td><td class="confluenceTd"><p>姚飞</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>版权图库</p></td><td class="confluenceTd"><p>开发：不明<br /> 原产品经理：向安琪（已离职）</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>标签系统</p></td><td class="confluenceTd"><p>开发：搜索这边，需明确<br /> 原产品经理：韩创</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>点评</p></td><td class="confluenceTd"><p>开发：最早喻志曾，现在丁明</p></td><td class="confluenceTd"><p>喻志曾比较熟悉</p></td></tr><tr><td class="confluenceTd"><p>旅游合同</p></td><td class="confluenceTd"><p>开发：刘东</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>保险业务</p></td><td class="confluenceTd"><p>开发：当前是杨淦（后续未定）</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>CPS</p></td><td class="confluenceTd"><p>开发：钟双喜</p></td><td class="confluenceTd"> </td></tr><tr><td class="confluenceTd"><p>淘宝分销</p></td><td class="confluenceTd"><p>开发：丁明</p></td><td class="confluenceTd"> </td></tr></tbody></table><p> </p><p><strong>近期关键项目：</strong></p><table class="confluenceTable"><tbody><tr><td class="confluenceTd"><p><strong>项目名称</strong></p></td><td class="confluenceTd"><p><strong>开发人员</strong></p></td></tr><tr><td class="confluenceTd"><p>产品服务承诺公示</p></td><td class="confluenceTd"><p>倪现军</p></td></tr><tr><td class="confluenceTd"><p>Coremetrics部署</p></td><td class="confluenceTd"><p>李坤</p></td></tr><tr><td class="confluenceTd"><p>礼品卡三期</p></td><td class="confluenceTd"><p>倪现军</p></td></tr><tr><td class="confluenceTd"><p>首页改版</p></td><td class="confluenceTd"><p>倪现军</p></td></tr><tr><td class="confluenceTd"><p>团购改版</p></td><td class="confluenceTd"><p>易帆、钟双喜</p></td></tr><tr><td class="confluenceTd"><p>秒杀大促系统</p></td><td class="confluenceTd"><p>李坤</p></td></tr><tr><td class="confluenceTd"><p>专题活动模板</p></td><td class="confluenceTd"><p>倪现军</p></td></tr><tr><td class="confluenceTd"><p>前台旅游合同</p></td><td class="confluenceTd"><p>刘东</p></td></tr></tbody></table><p> </p><p>前台内容相关——在倪现军</p><p>业务相关——（下单、短信）李坤</p><p>PHP专题——姚飞</p><p>淘宝、点评——丁明 </p><p> </p>
+        <p>&nbsp;</p>
+    </body>
+</html>

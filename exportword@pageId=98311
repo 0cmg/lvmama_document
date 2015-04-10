@@ -1,0 +1,315 @@
+Message-ID: <2077507938.395.1402559877149.JavaMail.Administrator@IT01010030015>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_394_1869189522.1402559877149"
+
+------=_Part_394_1869189522.1402559877149
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Welcome to Confluence</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Welcome to Confluence</h1>
+    <div class=3D"Section1">
+        <p style=3D"text-align: center;">&nbsp;</p>
+<p><span style=3D"color: rgb(153,153,153);"><br /></span></p>
+<h2 id=3D"WelcometoConfluence-WithConfluenceitiseasytocreate,editandshareco=
+ntentwithyourteam.Chooseatopicbelowtostartlearninghow."><img class=3D"confl=
+uence-embedded-image" src=3D"b5df2bfc43fd5b3fd94c6168bfa15036" data-image-s=
+rc=3D"/confluence/download/attachments/98311/welcome.png?version=3D1&amp;mo=
+dificationDate=3D1387518917000&amp;api=3Dv2" width=3D"468" height=3D"34" />=
+<br />&nbsp; <span style=3D"color: rgb(128,128,128);">With Confluence it is=
+ easy to create, edit and share content with your team. Choose a topic belo=
+w to start learning how.</span></h2>
+<h2 id=3D"WelcometoConfluence-"><span style=3D"color: rgb(0,0,128);"><br />=
+</span></h2>
+<ol>
+<li><span style=3D"color: rgb(0,0,128);"><a href=3D"/confluence/pages/viewp=
+age.action?pageId=3D98312">What is Confluence?<br /><br /></a></span></li>
+<li><span style=3D"color: rgb(0,0,128);"><a href=3D"/confluence/pages/viewp=
+age.action?pageId=3D98309">A quick look at the editor</a><br />&nbsp;</span=
+></li>
+<li><span style=3D"color: rgb(0,0,128);"><a href=3D"/confluence/pages/viewp=
+age.action?pageId=3D98305">Let's edit this page</a><br /><br /></span></li>
+<li><span style=3D"color: rgb(0,0,128);"><a href=3D"/confluence/pages/viewp=
+age.action?pageId=3D98307">Prettify the page with an image<br /><br /></a><=
+/span></li>
+<li><span style=3D"color: rgb(0,0,128);"><a href=3D"/confluence/pages/viewp=
+age.action?pageId=3D98314">Get serious with a table<br /></a></span><span s=
+tyle=3D"color: rgb(0,0,128);">&nbsp;</span></li>
+<li><span style=3D"color: rgb(0,0,128);"><a href=3D"/confluence/pages/viewp=
+age.action?pageId=3D98308">Lay out your page</a>&nbsp;<br /><br /></span></=
+li>
+<li><a href=3D"/confluence/pages/viewpage.action?pageId=3D98310">Learn the =
+wonders of autoconvert</a>&nbsp;<br /><br /></li>
+<li><a href=3D"/confluence/pages/viewpage.action?pageId=3D98306">Tell peopl=
+e what you think in a comment</a>&nbsp;<br /><br /></li>
+<li><a href=3D"/confluence/pages/viewpage.action?pageId=3D98313">Share your=
+ page with a team member</a></li>
+</ol>
+<p><span style=3D"color: rgb(128,128,128);"><br /></span></p>
+<p><span style=3D"color: rgb(128,128,128);"><br /></span></p>
+<p><span style=3D"color: rgb(128,128,128);"><br /></span></p>
+<p><span style=3D"color: rgb(128,128,128);"><br /></span></p>
+<p><span style=3D"color: rgb(128,128,128);"><br /></span></p>
+<p style=3D"text-align: right;">&nbsp; &nbsp; &nbsp;&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_394_1869189522.1402559877149
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/b5df2bfc43fd5b3fd94c6168bfa15036
+
+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
+------=_Part_394_1869189522.1402559877149--

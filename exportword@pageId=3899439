@@ -1,0 +1,649 @@
+Message-ID: <1314053657.399.1402559909894.JavaMail.Administrator@IT01010030015>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_398_622589063.1402559909894"
+
+------=_Part_398_622589063.1402559909894
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E4=BA=A7=E5=93=81=E9=83=A8</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E4=BA=A7=E5=93=81=E9=83=A8</h1>
+    <div class=3D"Section1">
+        <div class=3D"contentLayout2">=20
+<div class=3D"columnLayout single" data-layout=3D"single">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<div class=3D"aui-message success shadowed information-macro">=20
+<p class=3D"title">=E6=AC=A2=E8=BF=8E=EF=BC=81</p>=20
+<span class=3D"aui-icon icon-success">Icon</span>=20
+<div class=3D"message-content">=20
+<p>=E8=BF=99=E6=98=AF=E6=8A=80=E6=9C=AF=E5=B9=B3=E5=8F=B0=E4=B8=AD=E5=BF=83=
+=E2=80=94=E2=80=94=E4=BA=A7=E5=93=81=E9=83=A8=E7=9A=84=E7=A9=BA=E9=97=B4=E9=
+=A6=96=E9=A1=B5=E3=80=82=E5=9B=A2=E9=98=9F=E7=A9=BA=E9=97=B4=E6=98=AF=E4=B8=
+=8E=E6=82=A8=E7=9A=84=E5=9B=A2=E9=98=9F=E5=88=86=E4=BA=AB=E7=9F=A5=E8=AF=86=
+=EF=BC=8C=E4=BB=A5=E5=8F=8A=E5=9C=A8=E9=A1=B9=E7=9B=AE=E3=80=81=E6=B5=81=E7=
+=A8=8B=E5=92=8C=E8=A7=84=E7=A8=8B=E4=B8=8A=E5=8D=8F=E4=BD=9C=E7=9A=84=E5=A5=
+=BD=E5=B7=A5=E5=85=B7=E3=80=82=E5=9C=A8=E8=BF=99=E9=87=8C=E6=82=A8=E5=B0=86=
+=E5=BE=97=E5=88=B0=E4=BB=A5=E4=B8=8B=E5=B8=AE=E5=8A=A9=EF=BC=9A</p>
+<ol>
+<li>=E6=96=B0=E5=91=98=E5=B7=A5=E7=9A=84=E6=8C=87=E5=8D=97</li>
+<li>=E4=BA=A7=E5=93=81=E9=83=A8=E7=9A=84=E5=90=84=E7=B1=BB=E5=B7=A5=E4=BD=
+=9C=E5=88=B6=E5=BA=A6=E4=B8=8E=E6=B5=81=E7=A8=8B</li>
+<li>=E9=83=A8=E9=97=A8=E7=9A=84=E5=9F=B9=E8=AE=AD=E4=B8=8E=E5=88=86=E4=BA=
+=AB</li>
+<li>=E4=BA=A7=E5=93=81=E8=AE=BE=E8=AE=A1=E7=9A=84=E5=AE=9E=E6=96=BD=E6=96=
+=B9=E6=A1=88</li>
+<li>=E7=94=A8=E6=88=B7=E4=BD=93=E9=AA=8C=E7=9A=84=E5=AE=9E=E6=96=BD=E6=96=
+=B9=E6=A1=88<br /><br /></li>
+</ol>
+<p>&nbsp;</p>=20
+</div>=20
+</div>=20
+<p><br /><br /></p>
+</div>=20
+</div>=20
+</div>=20
+<div class=3D"columnLayout single" data-layout=3D"single">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p>&nbsp;</p>
+</div>=20
+</div>=20
+</div>=20
+<div class=3D"columnLayout two-right-sidebar" data-layout=3D"two-right-side=
+bar">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<h2 id=3D"id-=E4=BA=A7=E5=93=81=E9=83=A8-=E5=9B=A2=E9=98=9F">=E5=9B=A2=E9=
+=98=9F</h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"><a class=3D"use=
+rLogoLink" data-username=3D"wgding" href=3D"http://10.2.1.106:8080/confluen=
+ce/display/~wgding" title=3D""><img class=3D"userLogo logo" src=3D"08bdbd0d=
+d91415d63c3bd870710009db" alt=3D"User icon: wgding" title=3D"" width=3D"48"=
+ height=3D"48" /></a></p><p style=3D"text-align: center;"><strong><a href=
+=3D"mailto:wangding@lvmama.com" class=3D"external-link" rel=3D"nofollow">=
+=E7=8E=8B=E4=B8=81</a></strong></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>=20
+</div>=20
+<div class=3D"cell aside" data-type=3D"aside">=20
+<div class=3D"innerCell">=20
+<h2 id=3D"id-=E4=BA=A7=E5=93=81=E9=83=A8-=E5=85=B3=E4=BA=8E=E6=88=91=E4=BB=
+=AC">=E5=85=B3=E4=BA=8E=E6=88=91=E4=BB=AC</h2>
+<p>=E4=BA=A7=E5=93=81=E5=9B=A2=E9=98=9F=E5=8C=85=E5=90=AB=E4=BA=86=E4=B8=A4=
+=E4=B8=AA=E5=B0=8F=E5=9B=A2=E9=98=9F=EF=BC=9A=E4=BA=A7=E5=93=81=E7=BB=8F=E7=
+=90=86=E5=9B=A2=E9=98=9F=E4=B8=8EUED=E5=9B=A2=E9=98=9F=EF=BC=8C=E6=88=91=E4=
+=BB=AC=E8=B4=9F=E8=B4=A3=E9=A9=B4=E5=A6=88=E5=A6=88=E7=BD=91=E7=AB=99=E4=BA=
+=A7=E5=93=81=E7=9A=84=E8=A7=84=E5=88=92=E4=B8=8E=E6=95=B4=E4=BD=93=E7=94=A8=
+=E6=88=B7=E4=BD=93=E9=AA=8C=E8=AE=BE=E8=AE=A1=E3=80=82</p>
+</div>=20
+</div>=20
+</div>=20
+<div class=3D"columnLayout single" data-layout=3D"single">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p>&nbsp;</p>
+</div>=20
+</div>=20
+</div>=20
+<div class=3D"columnLayout two-right-sidebar" data-layout=3D"two-right-side=
+bar">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<h2 id=3D"id-=E4=BA=A7=E5=93=81=E9=83=A8-=E5=8D=9A=E5=AE=A2=E6=B5=81">=E5=
+=8D=9A=E5=AE=A2=E6=B5=81</h2>
+<p> </p>
+<div class=3D"blog-post macro-blank-experience">=20
+<h2>=E5=8D=9A=E5=AE=A2=E6=B5=81</h2>=20
+<p>=E5=88=9B=E5=BB=BA=E4=B8=80=E4=B8=AA=E5=8D=9A=E6=96=87=E4=BB=A5=E5=92=8C=
+=E6=82=A8=E7=9A=84=E5=9B=A2=E9=98=9F=E6=88=96=E5=85=AC=E5=8F=B8=E5=88=86=E4=
+=BA=AB=E6=96=B0=E9=97=BB=E5=92=8C=E9=80=9A=E7=9F=A5=E3=80=82</p>=20
+</div>=20
+<p></p>
+</div>=20
+</div>=20
+<div class=3D"cell aside" data-type=3D"aside">=20
+<div class=3D"innerCell">=20
+<h2 id=3D"id-=E4=BA=A7=E5=93=81=E9=83=A8-=E6=9C=80=E8=BF=91=E6=9B=B4=E6=96=
+=B0">=E6=9C=80=E8=BF=91=E6=9B=B4=E6=96=B0</h2>
+<p> </p>
+<div class=3D"recently-updated recently-updated-concise">=20
+<div class=3D"hidden parameters">=20
+<input type=3D"hidden" id=3D"changesUrl" value=3D"/confluence/plugins/recen=
+tly-updated/changes.action?theme=3Dconcise&amp;pageSize=3D10&amp;startIndex=
+=3D0&amp;spaceKeys=3DPDU" />=20
+</div>=20
+<div class=3D"results-container">=20
+<ul>=20
+<li class=3D"update-item">=20
+<div class=3D"update-item-icon">=20
+<span class=3D"icon content-type-page"></span>=20
+</div>=20
+<div class=3D"update-item-content">=20
+<a href=3D"/confluence/pages/viewpage.action?pageId=3D5865645" title=3D"=E4=
+=BA=A7=E5=93=81=E9=83=A8">=E4=BA=A4=E4=BA=92=E7=BB=84=E5=86=85=E9=83=A8=E8=
+=AF=84=E5=AE=A1</a>=20
+<div class=3D"update-item-meta">
+ =E5=85=AD=E6=9C=88 10, 2014
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"confluence-userlink url fn" data-username=3D"wgding" href=3D"/c=
+onfluence/display/~wgding">=E7=8E=8B=E4=B8=81</a>=E6=9B=B4=E6=96=B0
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"changes-link" href=3D"/confluence/pages/diffpagesbyversion.acti=
+on?pageId=3D5865645&amp;selectedPageVersions=3D3&amp;selectedPageVersions=
+=3D2">=E6=9F=A5=E7=9C=8B=E5=8F=98=E5=8A=A8</a>=20
+</div>=20
+</div> </li>=20
+<li class=3D"update-item">=20
+<div class=3D"update-item-icon">=20
+<span class=3D"icon content-type-page"></span>=20
+</div>=20
+<div class=3D"update-item-content">=20
+<a href=3D"/confluence/pages/viewpage.action?pageId=3D4653064" title=3D"=E4=
+=BA=A7=E5=93=81=E9=83=A8">=E9=A9=B4=E5=A6=88=E5=A6=88super=E5=90=8E=E5=8F=
+=B0=E6=9D=83=E9=99=90=E7=94=B3=E8=AF=B7=E8=AF=B4=E6=98=8E</a>=20
+<div class=3D"update-item-meta">
+ =E5=85=AD=E6=9C=88 06, 2014
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"confluence-userlink url fn" data-username=3D"wgding" href=3D"/c=
+onfluence/display/~wgding">=E7=8E=8B=E4=B8=81</a>=E6=9B=B4=E6=96=B0
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"changes-link" href=3D"/confluence/pages/diffpagesbyversion.acti=
+on?pageId=3D4653064&amp;selectedPageVersions=3D5&amp;selectedPageVersions=
+=3D4">=E6=9F=A5=E7=9C=8B=E5=8F=98=E5=8A=A8</a>=20
+</div>=20
+</div> </li>=20
+<li class=3D"update-item">=20
+<div class=3D"update-item-icon">=20
+<span class=3D"icon content-type-page"></span>=20
+</div>=20
+<div class=3D"update-item-content">=20
+<a href=3D"/confluence/pages/viewpage.action?pageId=3D5865559" title=3D"=E4=
+=BA=A7=E5=93=81=E9=83=A8">=E5=85=B3=E4=BA=8E=E4=BF=9D=E9=9A=9C=E5=85=A8=E5=
+=93=81=E7=B1=BB=E8=BF=81=E7=A7=BB=E9=A1=B9=E7=9B=AE=E8=B5=84=E6=BA=90=E4=B8=
+=8E=E8=AE=A1=E5=88=92=E7=9B=AE=E6=A0=87=E7=9A=84=E8=A7=84=E5=AE=9A</a>=20
+<div class=3D"update-item-meta">
+ =E5=85=AD=E6=9C=88 03, 2014
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"confluence-userlink url fn" data-username=3D"wgding" href=3D"/c=
+onfluence/display/~wgding">=E7=8E=8B=E4=B8=81</a>=E6=9B=B4=E6=96=B0
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"changes-link" href=3D"/confluence/pages/diffpagesbyversion.acti=
+on?pageId=3D5865559&amp;selectedPageVersions=3D3&amp;selectedPageVersions=
+=3D2">=E6=9F=A5=E7=9C=8B=E5=8F=98=E5=8A=A8</a>=20
+</div>=20
+</div> </li>=20
+<li class=3D"update-item">=20
+<div class=3D"update-item-icon">=20
+<span class=3D"icon content-type-page"></span>=20
+</div>=20
+<div class=3D"update-item-content">=20
+<a href=3D"/confluence/pages/viewpage.action?pageId=3D5242895" title=3D"=E4=
+=BA=A7=E5=93=81=E9=83=A8">=E7=BB=84=E7=BB=87=E6=9E=B6=E6=9E=84</a>=20
+<div class=3D"update-item-meta">
+ =E5=9B=9B=E6=9C=88 23, 2014
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"confluence-userlink url fn" data-username=3D"wgding" href=3D"/c=
+onfluence/display/~wgding">=E7=8E=8B=E4=B8=81</a>=E6=9B=B4=E6=96=B0
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"changes-link" href=3D"/confluence/pages/diffpagesbyversion.acti=
+on?pageId=3D5242895&amp;selectedPageVersions=3D4&amp;selectedPageVersions=
+=3D3">=E6=9F=A5=E7=9C=8B=E5=8F=98=E5=8A=A8</a>=20
+</div>=20
+</div> </li>=20
+<li class=3D"update-item">=20
+<div class=3D"update-item-icon">=20
+<span class=3D"icon content-type-page"></span>=20
+</div>=20
+<div class=3D"update-item-content">=20
+<a href=3D"/confluence/pages/viewpage.action?pageId=3D5242905" title=3D"=E4=
+=BA=A7=E5=93=81=E9=83=A8">=E5=8A=A0=E7=8F=AD=E7=94=B3=E8=AF=B7=E5=88=B6=E5=
+=BA=A6</a>=20
+<div class=3D"update-item-meta">
+ =E5=9B=9B=E6=9C=88 23, 2014
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"confluence-userlink url fn" data-username=3D"wgding" href=3D"/c=
+onfluence/display/~wgding">=E7=8E=8B=E4=B8=81</a>=E6=9B=B4=E6=96=B0
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"changes-link" href=3D"/confluence/pages/diffpagesbyversion.acti=
+on?pageId=3D5242905&amp;selectedPageVersions=3D2&amp;selectedPageVersions=
+=3D1">=E6=9F=A5=E7=9C=8B=E5=8F=98=E5=8A=A8</a>=20
+</div>=20
+</div> </li>=20
+<li class=3D"update-item">=20
+<div class=3D"update-item-icon">=20
+<span class=3D"icon content-type-page"></span>=20
+</div>=20
+<div class=3D"update-item-content">=20
+<a href=3D"/confluence/pages/viewpage.action?pageId=3D5242911" title=3D"=E4=
+=BA=A7=E5=93=81=E9=83=A8">=E3=80=90=E9=A1=B9=E7=9B=AE=E5=88=B6=E5=BA=A6=E3=
+=80=91</a>=20
+<div class=3D"update-item-meta">
+ =E5=9B=9B=E6=9C=88 23, 2014
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"confluence-userlink url fn" data-username=3D"wgding" href=3D"/c=
+onfluence/display/~wgding">=E7=8E=8B=E4=B8=81</a>=E6=9B=B4=E6=96=B0
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"changes-link" href=3D"/confluence/pages/diffpagesbyversion.acti=
+on?pageId=3D5242911&amp;selectedPageVersions=3D2&amp;selectedPageVersions=
+=3D1">=E6=9F=A5=E7=9C=8B=E5=8F=98=E5=8A=A8</a>=20
+</div>=20
+</div> </li>=20
+<li class=3D"update-item">=20
+<div class=3D"update-item-icon">=20
+<span class=3D"icon content-type-page"></span>=20
+</div>=20
+<div class=3D"update-item-content">=20
+<a href=3D"/confluence/pages/viewpage.action?pageId=3D5242898" title=3D"=E4=
+=BA=A7=E5=93=81=E9=83=A8">=E3=80=90=E4=BA=BA=E4=BA=8B=E5=88=B6=E5=BA=A6=E3=
+=80=91</a>=20
+<div class=3D"update-item-meta">
+ =E5=9B=9B=E6=9C=88 23, 2014
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"confluence-userlink url fn" data-username=3D"wgding" href=3D"/c=
+onfluence/display/~wgding">=E7=8E=8B=E4=B8=81</a>=E6=9B=B4=E6=96=B0
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"changes-link" href=3D"/confluence/pages/diffpagesbyversion.acti=
+on?pageId=3D5242898&amp;selectedPageVersions=3D3&amp;selectedPageVersions=
+=3D2">=E6=9F=A5=E7=9C=8B=E5=8F=98=E5=8A=A8</a>=20
+</div>=20
+</div> </li>=20
+<li class=3D"update-item">=20
+<div class=3D"update-item-icon">=20
+<span class=3D"icon content-type-page"></span>=20
+</div>=20
+<div class=3D"update-item-content">=20
+<a href=3D"/confluence/pages/viewpage.action?pageId=3D5242914" title=3D"=E4=
+=BA=A7=E5=93=81=E9=83=A8">=E3=80=90=E4=BA=A7=E5=93=81=E5=88=B6=E5=BA=A6=E3=
+=80=91</a>=20
+<div class=3D"update-item-meta">
+ =E5=9B=9B=E6=9C=88 23, 2014
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"confluence-userlink url fn" data-username=3D"wgding" href=3D"/c=
+onfluence/display/~wgding">=E7=8E=8B=E4=B8=81</a>=E6=9B=B4=E6=96=B0
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"changes-link" href=3D"/confluence/pages/diffpagesbyversion.acti=
+on?pageId=3D5242914&amp;selectedPageVersions=3D2&amp;selectedPageVersions=
+=3D1">=E6=9F=A5=E7=9C=8B=E5=8F=98=E5=8A=A8</a>=20
+</div>=20
+</div> </li>=20
+<li class=3D"update-item">=20
+<div class=3D"update-item-icon">=20
+<span class=3D"icon content-type-page"></span>=20
+</div>=20
+<div class=3D"update-item-content">=20
+<a href=3D"/confluence/pages/viewpage.action?pageId=3D5242916" title=3D"=E4=
+=BA=A7=E5=93=81=E9=83=A8">=E3=80=90UED=E5=88=B6=E5=BA=A6=E3=80=91</a>=20
+<div class=3D"update-item-meta">
+ =E5=9B=9B=E6=9C=88 23, 2014
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"confluence-userlink url fn" data-username=3D"wgding" href=3D"/c=
+onfluence/display/~wgding">=E7=8E=8B=E4=B8=81</a>=E5=88=9B=E5=BB=BA=20
+</div>=20
+</div> </li>=20
+<li class=3D"update-item">=20
+<div class=3D"update-item-icon">=20
+<span class=3D"icon content-type-page"></span>=20
+</div>=20
+<div class=3D"update-item-content">=20
+<a href=3D"/confluence/pages/viewpage.action?pageId=3D4948001" title=3D"=E4=
+=BA=A7=E5=93=81=E9=83=A8">=E8=80=83=E5=8B=A4=E5=88=B6=E5=BA=A6=E8=AF=B4=E6=
+=98=8E</a>=20
+<div class=3D"update-item-meta">
+ =E5=9B=9B=E6=9C=88 23, 2014
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"confluence-userlink url fn" data-username=3D"wgding" href=3D"/c=
+onfluence/display/~wgding">=E7=8E=8B=E4=B8=81</a>=E6=9B=B4=E6=96=B0
+<span class=3D"separator"> =E2=80=A2 </span>
+<a class=3D"changes-link" href=3D"/confluence/pages/diffpagesbyversion.acti=
+on?pageId=3D4948001&amp;selectedPageVersions=3D3&amp;selectedPageVersions=
+=3D2">=E6=9F=A5=E7=9C=8B=E5=8F=98=E5=8A=A8</a>=20
+</div>=20
+</div> </li>=20
+</ul>=20
+<div class=3D"more-link-container">=20
+<a class=3D"more-link" href=3D"/confluence/plugins/recently-updated/changes=
+.action?theme=3Dconcise&amp;pageSize=3D10&amp;startHandle=3Dcom.atlassian.c=
+onfluence.pages.Page-3899441&amp;spaceKeys=3DPDU&amp;contentType=3Dpage, co=
+mment, blogpost, spacedesc">=E6=98=BE=E7=A4=BA=E6=9B=B4=E5=A4=9A</a>=20
+<img class=3D"waiting-image" alt=3D"=E8=AF=B7=E7=AD=89=E5=BE=85" src=3D"c56=
+26958a43638adadd5a75910131b95" width=3D"16" height=3D"16" />=20
+</div>=20
+</div>=20
+</div>=20
+<p></p>
+</div>=20
+</div>=20
+</div>=20
+</div>
+    </div>
+</body>
+</html>
+------=_Part_398_622589063.1402559909894
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/c5626958a43638adadd5a75910131b95
+
+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
+fySDhGYQdDWGQyUhADs=
+------=_Part_398_622589063.1402559909894
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/08bdbd0dd91415d63c3bd870710009db
+
+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
+------=_Part_398_622589063.1402559909894--

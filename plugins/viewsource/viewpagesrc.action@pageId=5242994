@@ -1,0 +1,42 @@
+                    
+    
+                    
+    
+                    
+    
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>查看源</title>
+        <link rel="canonical" href="/confluence/pages/viewpage.action?pageId=5242994" />
+        <link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?media=print" media="print">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+8" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/540325f998b5a41b60b4c19911f6a7d9/_/download/contextbatch/css/plugin.viewsource/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/79c738f4bfcbaa104651b3a3b7065227/_/download/contextbatch/css/editor-content/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1/_/styles/colors.css?spaceKey=VSTIN" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/resources/com.atlassian.confluence.themes.default:styles/default-theme.css" media="all">
+
+    </head>
+
+    <body class="mceContentBody aui-theme-default wiki-content fullsize">
+        <p>&nbsp;</p>         <p>1.日志框架介绍</p><p>日志框架总体上可以分为两类，日志接口框架（Facade)和日志实现框架，当然日志接口框架也有自己的默认日志实现方式。这样存在是有原因的，那就是java世界里日志框架有太多了，如果想替换日志框架时不用修改应用代码，这个时候自然就想到了面向接口编程，于是出现了日志接口框架 如apache.commons logging(JCL) 和the simple logging <span style="color: rgb(84,84,84);"> Facade </span>for java(SLF4J)和日志实现框架log4j，jul,logback等，以及这些日志接口框架及日志实现框架直接的转换jar包。</p><p>对于日志接口框架，提供的功能包括有很多，其中比较重要的比如：1.查找日志实现的框架（就是底层具体使用哪种日志实现框架），2.就是日志信息的组装。</p><p>而对于这两点，</p><p>1.SLF4J都完胜JCL.SLF4j使用静态编译的方式找到对应的日志实现框架(使用SLF4J的时候工程的jar包有一个StaticLoggerBinder.class类)，而JCL是使用动态绑定的方式找到对应的日志实现框架的（某些场景下回报ClassNotFoundException），对于这两种日志接口框架查找日志实现框架都可以通过其LogFactory的getLog方法查看其具体实现过程。</p><p>2.SLF4J组装日志的时候支持动态参数绑定（也是一个小优点吧）。</p><p>对于日志实现框架的比较这里就不说了，特别是log4j和logback的比较，你可以自行google下。</p><p> </p><p>2.项目中使用日志框架记录日志的简单四步法则（我命名的哈）</p><p>本项目使用的是SLF4J+Logback,其使用过程如下</p><ul><li>加入jar包依赖，因为是maven项目，所以你只需要在pom里添加如下的依赖就可以了。<br /><br /><img class="confluence-embedded-image" src="/confluence/download/attachments/5242994/log.pom.png?version=1&amp;modificationDate=1399896453000&amp;api=v2" data-image-src="/confluence/download/attachments/5242994/log.pom.png?version=1&amp;modificationDate=1399896453000&amp;api=v2" data-linked-resource-id="5439502" data-linked-resource-type="attachment" data-linked-resource-default-alias="log.pom.png" data-base-url="http://10.2.1.106:8080/confluence" data-linked-resource-container-id="5242994" title="vst_interfacePlatform > 对接项目日记记录方式 > log.pom.png" data-location="vst_interfacePlatform > 对接项目日记记录方式 > log.pom.png"></li></ul><p>       其中jcl-over-slf4j是因为spring使用的日志接口框架时JCL，所以如果要想打印spring的日志，需要配置这个桥接。</p><ul><li>配置web.xml拿到工程目录，这个将作为日志的存放的父目录。</li></ul><p>       <img class="confluence-embedded-image" src="/confluence/download/attachments/5242994/param.png?version=1&amp;modificationDate=1399896772000&amp;api=v2" data-image-src="/confluence/download/attachments/5242994/param.png?version=1&amp;modificationDate=1399896772000&amp;api=v2" data-linked-resource-id="5439503" data-linked-resource-type="attachment" data-linked-resource-default-alias="param.png" data-base-url="http://10.2.1.106:8080/confluence" data-linked-resource-container-id="5242994" title="vst_interfacePlatform > 对接项目日记记录方式 > param.png" data-location="vst_interfacePlatform > 对接项目日记记录方式 > param.png"></p><p>      <img class="confluence-embedded-image" src="/confluence/download/attachments/5242994/listener.png?version=1&amp;modificationDate=1399896792000&amp;api=v2" data-image-src="/confluence/download/attachments/5242994/listener.png?version=1&amp;modificationDate=1399896792000&amp;api=v2" data-linked-resource-id="5439504" data-linked-resource-type="attachment" data-linked-resource-default-alias="listener.png" data-base-url="http://10.2.1.106:8080/confluence" data-linked-resource-container-id="5242994" title="vst_interfacePlatform > 对接项目日记记录方式 > listener.png" data-location="vst_interfacePlatform > 对接项目日记记录方式 > listener.png"></p><p>   这样配置就可以拿到工程的目录了，但是需要注意的是这两个Listener的顺序不能反了，否则将拿不到工程目录</p><ul><li>添加logback.xml到maven项目的resource目录下。logback.xml如下</li></ul><p>     后续补充，cf添加代码好像有bug</p><ul><li><br /><br /></li></ul><p> </p><p> </p><p> </p>
+        <p>&nbsp;</p>
+    </body>
+</html>

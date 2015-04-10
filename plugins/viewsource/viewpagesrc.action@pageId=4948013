@@ -1,0 +1,42 @@
+                    
+    
+                    
+    
+                    
+    
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>查看源</title>
+        <link rel="canonical" href="/confluence/pages/viewpage.action?pageId=4948013" />
+        <link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?media=print" media="print">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+8" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/540325f998b5a41b60b4c19911f6a7d9/_/download/contextbatch/css/plugin.viewsource/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/79c738f4bfcbaa104651b3a3b7065227/_/download/contextbatch/css/editor-content/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1/_/styles/colors.css?spaceKey=Lvmama" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/resources/com.atlassian.confluence.themes.default:styles/default-theme.css" media="all">
+
+    </head>
+
+    <body class="mceContentBody aui-theme-default wiki-content fullsize">
+        <p>&nbsp;</p>         <p><strong>项目简介：</strong></p><p>在产品录入时候，对录入内容进行敏感词检查，如果存在敏感词，在保存时候，进行提示，并取消保存</p><p>后台进行敏感词维护：增删改，3800 条左右敏感词</p><p> </p><p><strong>一期</strong></p><p>方案：</p><p>     每次从数据库中查询所有词条，然后进行检查与过滤</p><p>问题：</p><p>     每次查询对数据库的压力过大</p><p> </p><p><strong>二期</strong></p><p>方案：</p><p><strong>    </strong>把敏感词库加载到内存cache起来，服务用cache中的数据进行处理和运算。因为cache体积较大，并需要参与服务运算，所以采用local cache</p><p>问题：</p><p>    服务调用不稳定，检查时而生效，时而失效</p><p> </p><p><strong>代码片段 (com.lvmama.pet.sensitiveW.service.SensitiveWordServiceImpl)：</strong></p><p><strong>原来实现：</strong></p><p><strong><img class="confluence-embedded-image" src="/confluence/download/attachments/4948013/image2014-4-14%2019%3A18%3A12.png?version=1&amp;modificationDate=1397474294000&amp;api=v2" data-image-src="/confluence/download/attachments/4948013/image2014-4-14%2019%3A18%3A12.png?version=1&amp;modificationDate=1397474294000&amp;api=v2" data-linked-resource-id="5177350" data-linked-resource-type="attachment" data-linked-resource-default-alias="image2014-4-14 19:18:12.png" data-base-url="http://10.2.1.106:8080/confluence" data-linked-resource-container-id="4948013" title="驴妈妈技术平台知识库 > 敏感词检查项目 > image2014-4-14 19:18:12.png" data-location="驴妈妈技术平台知识库 > 敏感词检查项目 > image2014-4-14 19:18:12.png"></strong></p><p><strong><br /></strong></p><p><strong>新实现：</strong></p><p><strong><img class="confluence-embedded-image" src="/confluence/download/attachments/4948013/image2014-4-14%2019%3A17%3A10.png?version=1&amp;modificationDate=1397474232000&amp;api=v2" data-image-src="/confluence/download/attachments/4948013/image2014-4-14%2019%3A17%3A10.png?version=1&amp;modificationDate=1397474232000&amp;api=v2" data-linked-resource-id="5177349" data-linked-resource-type="attachment" data-linked-resource-default-alias="image2014-4-14 19:17:10.png" data-base-url="http://10.2.1.106:8080/confluence" data-linked-resource-container-id="4948013" title="驴妈妈技术平台知识库 > 敏感词检查项目 > image2014-4-14 19:17:10.png" data-location="驴妈妈技术平台知识库 > 敏感词检查项目 > image2014-4-14 19:17:10.png"></strong></p><p><strong><br /></strong></p><p><strong>优化点：</strong></p><ol><li><strong>本地并发控制，增加 “synchronized” 关键字（也可以直接采用  java.util.c<strong>oncurrent</strong>.ConcurrentHashMap()）</strong></li><li><strong>集群多节点 cache 同步控制：通过比较本地cache版本和memcached中记录的cache版本。完善的解决方案可以参考Ehcache的广播机制</strong></li></ol><p><strong><br /></strong></p><p><strong>延展思考：</strong></p><ol><li><strong>Local cache 和 Remote cache 使用的场景和选择条件</strong><ol><li><strong>cache单元大小</strong></li><li><strong>性能要求：local肯定高于romote</strong></li><li><strong>性能+管理便捷性+硬件 等因素综合平衡考虑</strong></li></ol></li><li><strong>Local cache 多线程并发控制，集群多节点同步控制</strong><ol><li><strong>并发可以用sync关键字或者采用<strong>c<strong>oncurrent包中的实现</strong></strong></strong></li><li><strong>集群多节点同步可以参考Ehcache集群方案 或 本例中轻量解决方案</strong></li></ol></li><li><strong>开发测试方法</strong><ol><li><strong>可以在本地配置多个tomcat，模拟集群；tomcat 使用不同端口</strong></li><li><strong>用debug模拟多并发情况；用访问不断tomcat端口模拟集群访问</strong></li></ol></li></ol><p> </p><p> </p><p> </p><p><strong><br /></strong></p><p><strong><br /></strong></p><p><strong><br /></strong></p>
+        <p>&nbsp;</p>
+    </body>
+</html>

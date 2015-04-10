@@ -1,0 +1,289 @@
+Message-ID: <1905487098.589.1402560748785.JavaMail.Administrator@IT01010030015>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_588_1174859888.1402560748785"
+
+------=_Part_588_1174859888.1402560748785
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Batch Job =E8=B0=83=E5=BA=A6=E5=B9=B3=E5=8F=B0</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Batch Job =E8=B0=83=E5=BA=A6=E5=B9=B3=E5=8F=B0</h1>
+    <div class=3D"Section1">
+        <p><strong>=E7=9B=AE=E5=89=8D=E7=8A=B6=E6=80=81=EF=BC=9A</strong></=
+p>
+<p>=E7=9B=AE=E5=89=8D batch job =E5=88=86=E5=B8=83=E5=88=B0=E5=90=84=E4=B8=
+=AA=E5=AD=90=E5=B7=A5=E7=A8=8B=E4=B8=AD=EF=BC=8C=E7=94=A8Spring quartz=E6=
+=9D=A5=E9=85=8D=E7=BD=AE=E5=92=8C=E8=B0=83=E5=BA=A6=E3=80=82=E8=BF=99=E9=80=
+=A0=E6=88=90=EF=BC=9A</p>
+<ol>
+<li>job =E8=BF=87=E4=BA=8E=E5=88=86=E6=95=A3=EF=BC=8C=E6=B2=A1=E6=9C=89=E4=
+=B8=80=E4=B8=AA=E5=85=A8=E5=B1=80=E7=9A=84=E8=A7=86=E8=A7=92</li>
+<li>job =E8=BF=90=E8=A1=8C=E7=8A=B6=E6=80=81=E5=92=8C=E6=97=A5=E5=BF=97=E6=
+=97=A0=E6=B3=95=E7=BB=9F=E4=B8=80=E7=AE=A1=E7=90=86=EF=BC=9A=E5=BE=88=E5=A4=
+=9A=E6=97=B6=E5=80=99=EF=BC=8C=E6=88=91=E4=BB=AC=E4=B8=8D=E7=9F=A5=E9=81=93=
+job=E8=BF=90=E8=A1=8C=E7=8A=B6=E6=80=81=EF=BC=8C=E5=8F=AA=E6=9C=89=E5=9C=A8=
+=E4=B8=9A=E5=8A=A1=E6=8A=A5=E8=AD=A6=E5=90=8E=EF=BC=8C=E6=89=8D=E5=88=B0=E5=
+=AF=B9=E5=BA=94=E6=9C=8D=E5=8A=A1=E5=99=A8=E4=B8=8A=E6=9F=A5=E7=9C=8Btomcat=
+ =E8=BE=93=E5=85=A5=E6=97=A5=E5=BF=97</li>
+<li>job =E9=85=8D=E7=BD=AE=E4=B8=8D=E6=96=B9=E4=BE=BF=EF=BC=9A=E7=9B=AE=E5=
+=89=8Djob=E8=BF=90=E8=A1=8C=E5=91=A8=E6=9C=9F=E7=AD=89=E9=85=8D=E7=BD=AE=E9=
+=83=BD=E6=98=AF=E5=9C=A8Spring xml=E4=B8=AD=EF=BC=8C=E5=A6=82=E6=9E=9C=E8=
+=A6=81=E8=B0=83=E6=95=B4=E9=85=8D=E7=BD=AE=E5=B0=B1=E6=84=8F=E5=91=B3=E7=9D=
+=80=E4=BF=AE=E6=94=B9xml=EF=BC=8C=E5=B9=B6=E9=87=8D=E5=90=AF=E7=B3=BB=E7=BB=
+=9F</li>
+<li>job =E8=B0=83=E5=BA=A6=E4=B8=8D=E6=96=B9=E4=BE=BF=EF=BC=9A=E7=9B=AE=E5=
+=89=8D=E8=B0=83=E5=BA=A6=E5=85=A8=E9=83=A8=E4=BE=9D=E8=B5=96quartz=EF=BC=8C=
+=E5=9F=BA=E6=9C=AC=E6=98=AF=E9=BB=91=E7=9B=92=EF=BC=8C=E6=97=A0=E6=B3=95=E6=
+=94=AF=E6=8C=81Ad-hoc=E8=A7=A6=E5=8F=91</li>
+<li>=E8=BF=87=E5=A4=9A=E4=BE=9D=E8=B5=96 job =E8=B0=83=E5=BA=A6=EF=BC=8C=E6=
+=97=A0=E6=B3=95=E6=9B=B4=E5=A5=BD=E7=9A=84=E5=88=86=E5=B8=83=E5=BC=8F=E8=B0=
+=83=E5=BA=A6=E6=94=AF=E6=8C=81</li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>=E8=A7=A3=E5=86=B3=E6=96=B9=E6=A1=88=EF=BC=9A</strong></p>
+<p>=E5=BB=BA=E7=AB=8B=E4=B8=80=E4=B8=AA batch job =E9=85=8D=E7=BD=AE=E5=92=
+=8C=E8=B0=83=E5=BA=A6=E5=B9=B3=E5=8F=B0=EF=BC=8C=E8=81=8C=E8=B4=A3=E5=88=86=
+=E5=B7=A5=E5=A6=82=E4=B8=8B=EF=BC=9A</p>
+<ol>
+<li>job =E8=B0=83=E5=BA=A6=E5=B9=B3=E5=8F=B0
+<ol>
+<li>=E9=85=8D=E7=BD=AE/=E6=9F=A5=E8=AF=A2 job</li>
+<li>=E6=8C=89=E7=85=A7=E9=85=8D=E7=BD=AE=E8=B0=83=E5=BA=A6 job</li>
+<li>=E8=AE=B0=E5=BD=95 job =E6=89=A7=E8=A1=8C=E7=BB=93=E6=9E=9C</li>
+</ol></li>
+<li>=E4=B8=9A=E5=8A=A1=E6=A8=A1=E5=9D=97
+<ol>
+<li>=E6=8C=89=E7=85=A7 job =E6=8E=A5=E5=8F=A3=E5=AE=9E=E7=8E=B0</li>
+<li>=E6=8E=A5=E5=8F=A3=EF=BC=9A
+<ol>
+<li>=E6=A3=80=E6=9F=A5job=E7=8A=B6=E6=80=81</li>
+<li>=E6=89=A7=E8=A1=8Cjob</li>
+</ol></li>
+</ol></li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>=E7=B3=BB=E7=BB=9F=E6=9E=B6=E6=9E=84=EF=BC=9A</strong></p>
+<p>&nbsp;</p>
+<p><strong>=E6=95=B0=E6=8D=AE=E7=BB=93=E6=9E=84=EF=BC=9A</strong></p>
+<p>&nbsp;</p>
+<p><strong>=E5=AE=9E=E6=96=BD=E6=96=B9=E6=A1=88=EF=BC=9A</strong></p>
+<p>=E4=B8=80=E6=9C=9F=EF=BC=9A</p>
+<ol>
+<li>=E5=9F=BA=E6=9C=AC=E8=B0=83=E5=BA=A6=E5=8A=9F=E8=83=BD</li>
+<li>=E5=9F=BA=E6=9C=AC=E9=85=8D=E7=BD=AE=E5=8A=9F=E8=83=BD</li>
+<li>job=E7=BB=9F=E4=B8=80=E6=8E=A5=E5=8F=A3</li>
+</ol>
+<p>=E4=BA=8C=E6=9C=9F=EF=BC=9A</p>
+<ol>
+<li>=E8=B0=83=E5=BA=A6=E5=A4=9A=E7=BA=BF=E7=A8=8B=E5=A4=84=E7=90=86</li>
+<li>=E8=B0=83=E5=BA=A6=E4=BE=9D=E8=B5=96=E6=80=A7=E5=A4=84=E7=90=86</li>
+<li>=E5=8F=8B=E5=A5=BD=E7=9A=84=E9=85=8D=E7=BD=AE=E7=95=8C=E9=9D=A2</li>
+<li>=E5=A4=9A=E8=B0=83=E5=BA=A6=E5=99=A8=E6=94=AF=E6=8C=81</li>
+<li>=E7=8B=AC=E7=AB=8B=E9=83=A8=E7=BD=B2</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_588_1174859888.1402560748785--

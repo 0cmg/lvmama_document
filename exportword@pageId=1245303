@@ -1,0 +1,324 @@
+Message-ID: <845800205.541.1402560586779.JavaMail.Administrator@IT01010030015>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_540_229275389.1402560586779"
+
+------=_Part_540_229275389.1402560586779
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E5=B8=B8=E7=94=A8URL</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E5=B8=B8=E7=94=A8URL</h1>
+    <div class=3D"Section1">
+        <p><strong>Maven =E7=BB=84=E4=BB=B6=E5=BA=93=EF=BC=9A</strong></p>
+<div class=3D"Text">
+<span style=3D"color: rgb(0,0,0);"><a href=3D"http://192.168.0.101:8081/nex=
+us" class=3D"external-link" rel=3D"nofollow">http://192.168.0.101:8081/nexu=
+s</a> admin/admin123</span>
+</div>
+<div class=3D"Text">
+<span style=3D"color: rgb(0,0,0);"><br /></span>
+</div>
+<div class=3D"Text">
+<strong><span style=3D"color: rgb(0,0,0);">Jenkins =E6=8C=81=E7=BB=AD=E9=9B=
+=86=E6=88=90=E5=B9=B3=E5=8F=B0=EF=BC=9A</span></strong>
+</div>
+<div class=3D"Text">
+<span style=3D"color: rgb(0,0,0);"><a href=3D"http://192.168.0.252:9090/" c=
+lass=3D"external-link" rel=3D"nofollow">http://192.168.0.252:9090/</a>&nbsp=
+; &nbsp;log/111111</span>
+</div>
+<div class=3D"Text">
+<span style=3D"color: rgb(0,0,0);"><br /></span>
+</div>
+<div class=3D"Text">
+<strong><span style=3D"color: rgb(0,0,0);">=E2=80=9D=E7=A6=85=E9=81=93=E2=
+=80=9C=E6=B5=81=E7=A8=8B=E7=AE=A1=E7=90=86=EF=BC=9A</span></strong>
+</div>
+<div class=3D"Text">
+<span style=3D"color: rgb(0,0,0);"><a href=3D"http://pms.lvmama.com/zentao/=
+my/" class=3D"external-link" rel=3D"nofollow">http://pms.lvmama.com/zentao/=
+my/</a></span>
+</div>
+<div class=3D"Text">
+<span style=3D"color: rgb(0,0,0);"><br /></span>
+</div>
+<div class=3D"Text">
+<strong><span style=3D"color: rgb(0,0,0);">OA:</span></strong>
+</div>
+<div class=3D"Text">
+<span style=3D"color: rgb(0,0,0);"><a href=3D"http://192.168.0.5/index.php"=
+ class=3D"external-link" rel=3D"nofollow">http://192.168.0.5/index.php</a><=
+/span>
+</div>
+<div class=3D"Text">
+<span style=3D"color: rgb(0,0,0);"><br /></span>
+</div>
+<div class=3D"Text">
+<strong><span style=3D"color: rgb(0,0,0);">=E6=96=87=E6=A1=A3=E5=BA=93=EF=
+=BC=9A</span></strong>
+</div>
+<div class=3D"Text">
+<a href=3D"http://192.168.0.90:8080/logicaldoc/" style=3D"line-height: 1.42=
+85715;" class=3D"external-link" rel=3D"nofollow">http://192.168.0.90:8080/l=
+ogicaldoc/</a>
+</div>
+<div class=3D"Text">
+<strong><br /></strong>
+</div>
+<div class=3D"Text">
+<strong>=E7=B3=BB=E7=BB=9F=E5=90=8E=E5=8F=B0=E5=85=A5=E5=8F=A3=EF=BC=9A</st=
+rong>
+</div>
+<div class=3D"Text">
+<a href=3D"http://super.lvmama.com/pet_back/login.do" class=3D"external-lin=
+k" rel=3D"nofollow">http://super.lvmama.com/pet_back/login.do</a>
+</div>
+<div class=3D"Text">
+<strong><br /></strong>
+</div>
+<div class=3D"Text">
+<strong>=E5=85=A8=E4=BB=BF=E7=9C=9F ActiveMQ:</strong>
+</div>
+<div class=3D"Text">
+<a href=3D"http://192.168.0.243:8161/admin/queues.jsp" class=3D"external-li=
+nk" rel=3D"nofollow">http://192.168.0.243:8161/admin/queues.jsp</a>
+</div>
+<div class=3D"Text">
+<strong><br /></strong>
+</div>
+<div class=3D"Text">
+<strong>=E6=9F=A5=E7=9C=8B=E6=97=A5=E5=BF=97=EF=BC=9A</strong>
+</div>
+<div class=3D"Text">
+<a href=3D"http://192.168.0.102/" class=3D"external-link" rel=3D"nofollow">=
+http://192.168.0.102/</a>
+</div>
+<div class=3D"Text">
+<strong><br /></strong>
+</div>
+<div class=3D"Text">
+<strong>SVN:</strong>
+</div>
+<div class=3D"Text">
+<a href=3D"http://192.168.0.7/svn/super/projects/versatile" class=3D"extern=
+al-link" rel=3D"nofollow">http://192.168.0.7/svn/super</a>
+</div>
+<div class=3D"Text">
+<a href=3D"http://192.168.0.7/svn/focus" class=3D"external-link" rel=3D"nof=
+ollow">http://192.168.0.7/svn/focus</a>
+</div>
+<div class=3D"Text">
+<strong><br /></strong>
+</div>
+<div class=3D"Text">
+<strong>=E9=A1=B9=E7=9B=AE=E6=96=87=E6=A1=A3=EF=BC=9A</strong>
+</div>
+<div class=3D"Text">
+<pre><a class=3D"external-link" href=3D"http://192.168.0.7/svn/SCM/%E5%86%8=
+D%E9%80%A0%E9%A1%B9%E7%9B%AE" rel=3D"nofollow">http://192.168.0.7/svn/SCM</=
+a></pre>
+<p>&nbsp;</p>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_540_229275389.1402560586779--

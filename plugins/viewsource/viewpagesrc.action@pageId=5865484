@@ -1,0 +1,42 @@
+                    
+    
+                    
+    
+                    
+    
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>查看源</title>
+        <link rel="canonical" href="/confluence/pages/viewpage.action?pageId=5865484" />
+        <link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?media=print" media="print">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+8" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/24/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/540325f998b5a41b60b4c19911f6a7d9/_/download/contextbatch/css/plugin.viewsource/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/5d7c5b6c1e8dc6bb7107b4e4a2d2e0e5/_/download/contextbatch/css/page/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/79c738f4bfcbaa104651b3a3b7065227/_/download/contextbatch/css/editor-content/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/confluence/s/d41d8cd98f00b204e9800998ecf8427e/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1/_/styles/colors.css?spaceKey=Lvmama" media="all">
+<link type="text/css" rel="stylesheet" href="/confluence/s/zh_CN-1988229788/4726/ae47f2be84292af5a42aed58ebcd4cb49e436f6e.4/1.0/_/download/resources/com.atlassian.confluence.themes.default:styles/default-theme.css" media="all">
+
+    </head>
+
+    <body class="mceContentBody aui-theme-default wiki-content fullsize">
+        <p>&nbsp;</p>         <h2>EDM</h2><h3>Ø  功能说明</h3><p align="left">EDM是邮件营销部分，营销人员定期给某些用户推送一定的邮件，以达到营销的目的。</p><h3>Ø  业务逻辑</h3><p align="left">目前EDM相关的邮件的发送方式是通过第三方的邮件服务商来发送的，我们这边使用的是汉启和锐致两家的。</p><p align="left">我们这边将邮件接受者和邮件的内容推送到第三方，然后由第三方来负责真是的发送。</p><p align="left">关于汉启的使用请查看汉启提供的相关文档说明。</p><p align="left">接下来说一下我们这边需要做的一些事情：</p><p align="left">EDM是由定时器来发送的，会在后台简历很多EDM相关任务，任务是由用户组（邮件接受者集合）、模板（邮件的内容部分）、发送时间等组成，定时器会轮询EDM相关的任务，然后对任务进行预处理之后推送到第三方EDM服务器，EDM服务器负责将邮件发送至客户端。</p><h3>Ø  相关代码</h3><p align="left">EDM相关的job：</p><p align="left">com.lvmama.operate.job.EdmSendTaskJob</p><p align="left">com.lvmama.operate.job.EdmBatchJob</p><p align="left">其他相关的EDM任务、用户组、模板管理可以在super后台中查看到</p><p align="left">汉启EDM邮件发送接口:com.lvmama.comm.edm.IHqEMailSenderService，可以通过hessian方式调用该接口，将邮件信息推送到汉启那边进行发送。</p><h3>Ø  相关表</h3><p align="left"><em>--EDM</em><em>发送邮件批次表</em></p><p align="left">select * from lvmama_super.edm_subscribe_batch;</p><p align="left"><em>--EDM</em><em>任务表</em></p><p align="left">select * from lvmama_super.edm_Subscribe_Task;</p><p align="left"><em>--EDM</em><em>用户组表</em></p><p align="left">select * from lvmama_super.edm_subscribe_user_group;</p><p align="left"><em>--EDM</em><em>模板表</em></p><p align="left">select * from lvmama_super.edm_subscribe_template;</p><p align="left"><em>--</em><em>定时批次邮件</em><em>,</em><em>用于定时的批次任务</em></p><p align="left">select * from lvmama_super.edm_subscribe_batch_job;</p><p align="left"> </p><p align="left">汉启发送邮件的接口请查看<a href="http://192.168.0.7/svn/SCM/技术中心文档库/用户关系组/汉启.rar">《汉启相关接口文档》</a></p><p align="left"> </p><p align="left"> </p><p class="p1"><strong>汉启服务器为：114.80.217.180</strong></p><p class="p1">正常情况下，邮件发送模板和数据都会建立在  <span class="s1">/HQEDM/日期/</span>  这样的路径下</p><p class="p1"><img class="confluence-embedded-image" src="/confluence/download/attachments/5865484/image2014-5-28%2011%3A48%3A10.png?version=1&amp;modificationDate=1401248921000&amp;api=v2" data-image-src="/confluence/download/attachments/5865484/image2014-5-28%2011%3A48%3A10.png?version=1&amp;modificationDate=1401248921000&amp;api=v2" data-linked-resource-id="5996565" data-linked-resource-type="attachment" data-linked-resource-default-alias="image2014-5-28 11:48:10.png" data-base-url="http://10.2.1.106:8080/confluence" data-linked-resource-container-id="5865484" title="驴妈妈技术平台知识库 > EDM > image2014-5-28 11:48:10.png" data-location="驴妈妈技术平台知识库 > EDM > image2014-5-28 11:48:10.png"></p><p align="left"> </p><p> </p>
+        <p>&nbsp;</p>
+    </body>
+</html>

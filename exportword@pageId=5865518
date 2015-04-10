@@ -1,0 +1,251 @@
+Message-ID: <1470090692.433.1402560140509.JavaMail.Administrator@IT01010030015>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_432_1071593262.1402560140509"
+
+------=_Part_432_1071593262.1402560140509
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E4=B8=8B=E5=8D=95=E8=BF=87=E7=A8=8B=E4=B8=AD=EF=BC=8C=E5=A1=AB=
+=E5=86=99=E8=AE=A2=E5=8D=95=E4=BF=A1=E6=81=AF=E5=90=8E=EF=BC=8C=E6=8F=90=E4=
+=BA=A4=E8=AE=A2=E5=8D=95=E6=98=BE=E7=A4=BA =E2=80=9C=E5=AF=B9=E4=B8=8D=E8=
+=B5=B7=EF=BC=8C=E6=B2=A1=E6=9C=89=E5=BA=93=E5=AD=98=E4=BA=86=E2=80=9D</titl=
+e>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E4=B8=8B=E5=8D=95=E8=BF=87=E7=A8=8B=E4=B8=AD=EF=BC=8C=E5=A1=AB=E5=
+=86=99=E8=AE=A2=E5=8D=95=E4=BF=A1=E6=81=AF=E5=90=8E=EF=BC=8C=E6=8F=90=E4=BA=
+=A4=E8=AE=A2=E5=8D=95=E6=98=BE=E7=A4=BA =E2=80=9C=E5=AF=B9=E4=B8=8D=E8=B5=
+=B7=EF=BC=8C=E6=B2=A1=E6=9C=89=E5=BA=93=E5=AD=98=E4=BA=86=E2=80=9D</h1>
+    <div class=3D"Section1">
+        <p><strong>Q:&nbsp;</strong><strong style=3D"font-size: 14.0px;line=
+-height: 1.4285715;">=E6=B8=B8=E5=AE=A2=E5=9C=A8=E5=88=86=E9=94=80=E4=B8=8A=
+=E8=B4=AD=E4=B9=B0=E4=BA=86=EF=BC=8C=E9=9C=80=E8=A6=81=E5=85=91=E6=8D=A2=EF=
+=BC=8C=E6=B8=B8=E7=8E=A9=E6=97=B6=E9=97=B4=E6=98=AF5=E6=9C=8822=E6=97=A5=EF=
+=BC=8C=E7=8E=B0=E5=9C=A8=E6=88=91=E4=BB=AC=E9=83=BD=E8=83=BD=E5=9C=A8=E5=89=
+=8D=E5=8F=B0=E5=90=8E=E5=8F=B0=E4=B8=8B=E5=8D=95=EF=BC=8C=E4=BD=86=E6=98=AF=
+=E4=B8=8B=E5=8D=95=E6=9C=80=E7=BB=88=E6=B5=81=E7=A8=8B=E6=98=AF=E6=98=BE=E7=
+=A4=BA=E5=BA=93=E5=AD=98=E4=B8=8D=E8=B6=B3=EF=BC=8C=E9=BA=BB=E7=83=A6=E6=8E=
+=92=E6=9F=A5=E4=B8=80=E4=B8=8B=E6=98=AF=E4=BB=80=E4=B9=88=E5=8E=9F=E5=9B=A0=
+=EF=BC=8C=E8=B0=A2=E8=B0=A2=EF=BC=81</strong></p>
+<p class=3D"p2"><strong>=E9=BB=84=E6=9E=9C=E6=A0=91=E8=87=AA=E7=94=B1=E8=A1=
+=8C=EF=BC=8C=E6=B8=B8=E9=BB=84=E6=9E=9C=E6=A0=91=E7=80=91=E5=B8=83=EF=BC=8C=
+=E4=BD=8F=E9=BB=84=E6=9E=9C=E6=A0=91=E6=B9=98=E6=B0=B4=E8=8A=99=E8=93=89=E5=
+=A4=A7=E9=85=92=E5=BA=97<span class=3D"s1">_2</span>=E4=BA=BA<span class=3D=
+"s1">1</span>=E6=99=9A=E5=A5=97=E9=A4=90<span class=3D"s1">&nbsp; ID:</span=
+><span class=3D"s2">&nbsp;</span><span class=3D"s1">102261.&nbsp;</span></s=
+trong></p>
+<p class=3D"p2"><strong>=E6=8F=90=E4=BA=A4=E8=AE=A2=E5=8D=95=E6=97=B6=E5=80=
+=99=EF=BC=8C=E6=98=BE=E7=A4=BA =E2=80=9C=E5=AF=B9=E4=B8=8D=E8=B5=B7=EF=BC=
+=8C=E6=B2=A1=E6=9C=89=E5=BA=93=E5=AD=98=E4=BA=86=E2=80=9D</strong></p>
+<p class=3D"p2"><span class=3D"s1"><strong><br /></strong></span></p>
+<p class=3D"p2"><span class=3D"s1"><strong>A: =E6=98=AF=E5=9B=A0=E4=B8=BA=
+=E4=BA=A7=E5=93=81=E5=BA=93=E5=AD=98=E8=AE=BE=E7=BD=AE=E4=B8=8A=E9=97=AE=E9=
+=A2=98=EF=BC=9A=E5=9C=A8=E6=97=B6=E9=97=B4=E4=BB=B7=E6=A0=BC=E8=A1=A8=E4=B8=
+=8A=E8=AE=BE=E7=BD=AE=E4=B8=BA =E2=80=9C=E6=97=A0=E9=99=90=E5=BA=93=E5=AD=
+=98=E2=80=9D=EF=BC=9B=E5=90=8C=E6=97=B6=E5=9C=A8=E4=BA=A7=E5=93=81=E4=B8=8A=
+=E8=AE=BE=E7=BD=AE =E2=80=9C=E4=BD=BF=E7=94=A8=E6=80=BB=E5=BA=93=E5=AD=98=
+=E2=80=9D=E3=80=82=E8=BF=992=E4=B8=AA=E8=AE=BE=E7=BD=AE=E6=98=AF=E7=9F=9B=
+=E7=9B=BE=E7=9A=84</strong></span></p>
+<p>&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_432_1071593262.1402560140509--
